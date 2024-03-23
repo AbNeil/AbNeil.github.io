@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "README.md", title: "About me", icon: address-card}
   - {file: "/abdul.pdf", title: "CV", icon:home}
   - {title: "Lab", url: "https://www.myperfectresume.com/profile/finalize/preview"}
-  - {title: "blog", file: "/blog.md"}
+  - {title: "About Me", file: "/aboutme.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "a.wahid2@universityofgalway.ie"}
