@@ -23,6 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "Lab", url: "https://www.myperfectresume.com/profile/finalize/preview"}
   - {title: "About Me", file: "/aboutme.md"}
   - {title: "Education", file: "/edu.md"}
+  - {title: "Research", file: "/research.md"}
+  - {title: "Publication", file: "/publication.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "a.wahid2@universityofgalway.ie"}
