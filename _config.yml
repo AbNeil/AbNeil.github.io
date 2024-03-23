@@ -31,6 +31,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/Abneil"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/K_Neeil"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/abdul-wahid-a5a91368/"}
+  - {title: Google Scholar, icon: google scholar, url: "https://scholar.google.com/citations?user=dtWW3jUAAAAJ&hl=en&authuser=1"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
