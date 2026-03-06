@@ -3,16 +3,16 @@ layout: About
 title: About
 permalink: /
 subtitle: <a href='#'>Data Science Institute (DSI), University of Galway</a>. 
-subtitle: <a href='#'>IDA Business Park Lower Dangan, Galway, Ireland H91 AEX4</a>.
+
 
 profile:
   align: right
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+353830892514</p>
+    <p>123 IDA Business Park Lower Dangan</p>
+    <p>Galway, Ireland H91 AEX4</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -39,9 +39,4 @@ More broadly, my research contributes to the design of transparent, accountable,
 I received my PhD in Electrical and Electronic Engineering from the University of Galway (2024). Previously, I completed a Master’s degree in Electronics and Information Engineering at Chonbuk National University, South Korea (2016), and a Bachelor’s degree in Information Technology Engineering from Baba Ghulam Shah Badshah University, India (2012).
 
 
-
-Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find me on [X](https://x.com/K_Neeil) and [LinkedIn](https://www.linkedin.com/in/abdul-wahid-a5a91368/)
