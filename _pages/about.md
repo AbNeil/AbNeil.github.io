@@ -3,7 +3,7 @@ layout: About
 title: About
 permalink: /
 subtitle: <a href='#'>Data Science Institute (DSI), University of Galway</a>. 
-<a href='#'>IDA Business Park Lower Dangan, Galway, Ireland H91 AEX4</a>.
+subtitle: <a href='#'>IDA Business Park Lower Dangan, Galway, Ireland H91 AEX4</a>.
 
 profile:
   align: right
