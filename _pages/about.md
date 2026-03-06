@@ -1,8 +1,9 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Data Science Institute (DSI), University of Galway</a>. IDA Business Park Lower Dangan, Galway, Ireland H91 AEX4.
+subtitle: <a href='#'>Data Science Institute (DSI), University of Galway</a>. 
+<a href='#'>IDA Business Park Lower Dangan, Galway, Ireland H91 AEX4</a>.
 
 profile:
   align: right
@@ -29,9 +30,9 @@ latest_posts:
 
 I am an Industry Fellow with Fidelity Investments, supported by the Research Ireland RD&I Fellowship (2026) and a Postdoctoral Researcher with the E-Governance Unit at the Insight Centre for Data Analytics, University of Galway.
 
-My research focuses on the integration of large language models, knowledge graphs, and semantic ontologies to improve the reliability, factual grounding, and reasoning capabilities of AI systems. A key aspect of my work explores counterfactual knowledge reasoning, enabling AI systems to reason about alternative scenarios and improve robustness and trustworthiness in complex decision environments.
+My research focuses on integrating large language models, knowledge graphs, and semantic ontologies to improve the reliability, factual grounding, and reasoning capabilities of AI systems. A key aspect of my work explores counterfactual knowledge reasoning, enabling AI systems to reason about alternative scenarios and improve robustness and trustworthiness in complex decision environments.
 
-In collaboration with Fidelity Investments, I am currently investigating prediction markets, studying how market design, strategic participation, and information asymmetry influence the epistemic reliability of market signals. This work sits at the intersection of computational economics and mechanism design to develop more reliable decision-support systems for uncertain and information-rich environments.
+In collaboration with Fidelity Investments, I am investigating prediction markets, examining how market design, strategic participation, and information asymmetry affect the epistemic reliability of market signals. This work sits at the intersection of computational economics and mechanism design to develop more reliable decision-support systems for uncertain and information-rich environments.
 
 More broadly, my research contributes to the design of transparent, accountable, and well-governed digital ecosystems, including emerging domains such as virtual worlds, immersive platforms, and next-generation digital infrastructures.
 
