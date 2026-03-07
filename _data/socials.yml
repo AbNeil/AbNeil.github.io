@@ -1,17 +1,17 @@
-- name: email
-  url: mailto:abdul.a.wahid@universityofgalway.ie  # replace with your actual email
+- icon: fa-solid fa-envelope
+  url: mailto:abdul.a.wahid@universityofgalway.ie
 
-- name: linkedin
+- icon: fa-brands fa-linkedin
   url: https://www.linkedin.com/in/abdul-wahid-a5a91368/
 
-- name: x
+- icon: fa-brands fa-x-twitter
   url: https://x.com/K_Neeil
 
-- name: github
+- icon: fa-brands fa-github
   url: https://github.com/AbNeil
 
-- name: google_scholar
-  url: https://scholar.google.com/citations?user=dtWW3jUAAAAJ&hl=en  # replace with your actual Google Scholar URL
+- icon: ai ai-google-scholar
+  url: https://scholar.google.com/citations?user=dtWW3jUAAAAJ&hl=en
 
-- name: university
-  url: https://research.universityofgalway.ie/en/persons/abdul-wahid/  # replace with your UoG profile URL
+- icon: fa-solid fa-building-columns
+  url: https://research.universityofgalway.ie/en/persons/abdul-wahid/
