@@ -9,24 +9,23 @@ related_posts: false
 Received (€60,000) – Co-PI, Data2Sustain, 2025.
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://data2sustain.ie/">Data2sustain</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Data2Sustain <a href="https://data2sustain.ie/">Data2sustain</a> is a European Digital Innovation Hub (EDIH) focused on supporting the digital transformation of small and medium-sized enterprises (SMEs) and public organisations in the Northern and Western regions of Ireland. The initiative brings together a consortium of universities, research centres, innovation hubs, and regional development agencies to provide organisations with access to advanced technologies, technical expertise, and innovation services.
 
-#### Hipster list
+The programme aims to accelerate the adoption of data-driven innovation, artificial intelligence, advanced analytics, and digital infrastructure, helping organisations experiment with emerging technologies before investing in full-scale deployment. Through services such as AI prototyping, digital maturity assessments, skills training, and feasibility studies, Data2Sustain enables companies to develop new digital products, improve operational efficiency, and build sustainable business models.
+
+As part of the wider European Digital Innovation Hub network, the project contributes to the EU’s digital transformation strategy by helping businesses adopt advanced technologies such as AI, robotics, and data analytics, while also strengthening regional innovation ecosystems and digital capabilities across sectors.
+
+
+#### European Digital Innovation Hub Project Supporting
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Digital transformation of SMEs</li>
+    <li>Public organisations across Ireland’s Northern and Western regions</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 ---
 
 Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+> The programme connects universities, innovation centres, and industry partners to help organisations adopt advanced technologies such as artificial intelligence, data analytics, and digital platforms. Through collaborative pilot projects, Data2Sustain enables companies to experiment with AI-driven solutions, develop data infrastructures, and build more sustainable and competitive digital services.
