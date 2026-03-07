@@ -419,16 +419,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-edhi-funding-award",
+          title: 'EDHI Funding Award',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-started-as-an-industry-research-fellow-in-collaboration-with-fcat-fidelity-investments-funded-under-the-research-ireland-academic-industry-postdoctoral-fellowship-2026",
+          title: 'Started as an Industry Research Fellow in collaboration with FCAT, Fidelity Investments, funded...',
+          description: "",
+          section: "News",},{id: "news-research-ireland-academic-industry-postdoctoral-fellowship-2026-awarded-a-highly-competitive-national-fellowship-supporting-industry-aligned-research-with-fcat-fidelity-investments-2026",
+          title: 'Research Ireland Academic-Industry Postdoctoral Fellowship (2026) – Awarded a highly competitive National fellowship...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
