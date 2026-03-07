@@ -1,17 +1,29 @@
-- icon: fa-solid fa-envelope
+- name: email
+  icon: fa-solid fa-envelope
+  logo: envelope
   url: mailto:abdul.a.wahid@universityofgalway.ie
 
-- icon: fa-brands fa-linkedin
+- name: linkedin
+  icon: fa-brands fa-linkedin
+  logo: LinkedIn
   url: https://www.linkedin.com/in/abdul-wahid-a5a91368/
 
-- icon: fa-brands fa-x-twitter
+- name: x
+  icon: fa-brands fa-x-twitter
+  logo: x-twitter
   url: https://x.com/K_Neeil
 
-- icon: fa-brands fa-github
+- name: github
+  icon: fa-brands fa-github
+  logo: github
   url: https://github.com/AbNeil
 
-- icon: ai ai-google-scholar
+- name: google-scholar
+  icon: ai ai-google-scholar
+  logo: Google Scholar
   url: https://scholar.google.com/citations?user=dtWW3jUAAAAJ&hl=en
 
-- icon: fa-solid fa-building-columns
-  url: https://research.universityofgalway.ie/en/persons/abdul-wahid/
+- name: orcid
+  icon: ai ai-orcid
+  logo: orcid
+  url: https://orcid.org/your-orcid-id
