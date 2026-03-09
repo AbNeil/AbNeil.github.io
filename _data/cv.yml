@@ -1,50 +1,50 @@
 cv:
-  name: Albert Einstein
+  name: Abdul Wahid
   label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  email: abdul.a.wahid@universityofgalway.ie
+  location: Galway, Ireland
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: I am a computer scientist with expertise at the intersection of software systems, data-intensive architectures, and AI-enabled platforms. My research focuses on building robust, scalable, and interpretable computational systems, integrating software engineering principles, distributed systems, and machine learning. I combine formal modelling, system-level design, and empirical evaluation to address reliability, performance, and trustworthiness in complex software-driven environments. I bring a strong record of peer-reviewed research, competitive funding, undergraduate and postgraduate teaching, and interdisciplinary collaboration, with clear potential for leadership in Software & Systems research.
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: K_Neeil
     - network: GitHub
-      username: example
+      username: AbNeil
     - network: LinkedIn
-      username: example
+      username: https://www.linkedin.com/in/abdul-wahid-a5a91368/
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 123 IDA Business Park
+    city: Galway
+    region: Galway
+    postalCode: H91 AEX4
+    countryCode: IRE
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Galway
+        location: Galway, Ireland
+        url: https://www.universityofgalway.ie/
+        area: Electrical & Electronics Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2019
+        end_date: 2024
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - 
+          - 
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Chonbuk National University
+        location: Jeonju, South Korea
+        area: Electronics and Information Engineering
+        studyType: Master's in Engineering
+        start_date: 2014
+        end_date: 2016
         highlights:
-          - Description 1.
-          - Description 2.
+          - 
+          - 
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
