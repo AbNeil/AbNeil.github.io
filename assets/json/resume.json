@@ -135,7 +135,7 @@
     {
       "name": "Generative AI with Diffusion Models",
       "date": "2026-03-05",
-      "issuer": "Stanford University",
+      "issuer": "Nvidia",
       "icon": "fa-solid fa-tag"
     },
     {
@@ -204,7 +204,7 @@
         "Knowledge Graphs and Semantic Ontologies",
         "Neurosymbolic Artificial Intelligence",
         "AI Governance, Ethics, and Trustworthy AI",
-        "QPrediction Markets and Computational Market Design",
+        "Prediction Markets and Computational Market Design",
         "Virtual Worlds, Metaverse, and Digital Ecosystems",
         "Semantic Web and Intelligent Information Systems"
       ]
@@ -217,7 +217,7 @@
       "reference": "Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland."
     },
     {
-      "name": "Professor Adegboyega Ojo",
+      "name": "Prof. Adegboyega Ojo",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Professor, Canada Research Chair in Governance and Artificial Intelligence, digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics"
     }
