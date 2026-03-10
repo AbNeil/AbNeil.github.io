@@ -8,10 +8,10 @@ nav_order: 6
 ---
 
 PhD, Electrical and Electronic Engineering
-University of Galway, Ireland — 2024
+University of Galway, Ireland  (2024)
 
-M.Sc., Electronics and Information Engineering
-Chonbuk National University, South Korea — 2016
+M.S, Electronics and Information Engineering
+Chonbuk National University, South Korea  (2016)
 
 B.Tech., Information Technology Engineering
-Baba Ghulam Shah Badshah University, India — 2012
+Baba Ghulam Shah Badshah University, India  (2012)
