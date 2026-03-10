@@ -56,112 +56,110 @@ cv:
           
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Fidelity Investments
+        position: Industry Research Fellow
+        location: Galway, Ireland
+        start_date: 2026
+        end_date: 
+        summary: Leading a project on market-level markers and temporal trends that best predict long-term forecasting accuracy, robustness, and stability of prediction markets.
         highlights:
-          - Relativity
-          - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+
+      - company: Data Science Institute, University of Galway
+        position: Post-Doctoral Researcher
+        location: Galway, Ireland
+        start_date: 2024
+        end_date: 
         highlights:
-          - Description 1.
-          - Description 2.
+     
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: School of Computing, National College of Ireland
+        position: Associate Lecturer (Part-time)
+        location: Dublin, Ireland
+        start_date: 2025
+        end_date: 
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Technological University of Shannon
+        position: Assistant Lecturer (Part-time)
+        location: Shannon, Ireland
+        start_date: 2025
+        end_date: 2025
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Yuncheng University
+        position: Lecturer
+        location: Yuncheng, Shanxi, China
+        start_date: 2016
+        end_date: 2017
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Huawei Research
+        position: Research and Development Intern
+        location: Dublin, Ireland
+        start_date: 2022-01-01
+        end_date: 2022-08-30
+        summary: .
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Academic-Industry Postdoctoral Fellowship
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
+          - "Research Ireland"
+        date: 2026-01-0
+        awarder: Research Ireland
+        url: https://www.researchireland.ie/funding/enterprise-fellowships/
+        summary: Awarded a highly competitive national fellowship supporting industry-aligned research with FCAT, Fidelity Investments, 2026.
+        
+      - title: 
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          
+        date: 
+        awarder: 
+        summary: 
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - 
+        publisher: Artificial Intelligence and Optimization in Industry 4.0, MDPI
+        releaseDate: 2022-04-22
+        url: https://10.13140/RG.2.2.11628.78724
+        summary: This work proposes a method for multivariate time-series forecasting for predictive maintenance (PdM) based on a combination of convolutional neural networks and long short-term memory with skip connection (CNN-LSTM).
+        
+      - title: Integrating I4. 0 Knowledge Graphs with Large Language Models Beyond SPARQL Endpoints
+        authors:
+          
+        publisher: ISWC
+        releaseDate: 2024-08-03
+        url: 10.13140/RG.2.2.11628.78724
+        summary: In this work, we present a framework and preliminary results of integrating Industry 4.0 KGs with LLMs to improve the way data is represented, reasoned, and processed in manufacturing contexts, which facilitates user interaction with KGs and contributes to operational efficiency.
+  
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: TCRSCANet: Harnessing temporal convolutions and recurrent skip component for enhanced RUL estimation in mechanical systems
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+         
+        publisher: Human-Centric Intelligent Systems
+        releaseDate: 2024-03-03
+        url: 10.1007/s44230-023-00060-0
+        summary: The goal of this study is to find out how to predict the RUL of mechanical systems using complex sensor data. To do this, we present a data-driven framework called temporal convolution, along with a recurrent skip component and an attention mechanism network called TCRSCANet.
 
     Skills:
-      - name: Physics
+      - name: PEngineering/AI
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models"
 
     Languages:
-      - name: German
+      - name: Kashmiri
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Engineering/AI
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics, and Trustworthy AI, Prediction Markets and Computational Market Design, Virtual Worlds, Metaverse, and Digital Ecosystems, Semantic Web and Intelligent Information Systems"
 
     Certificates:
       - name: Machine Learning
@@ -169,30 +167,30 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
+      - name: Generative AI with Diffusion Models
+        date: 2026-03-05
+        issuer: Nvidia
+        icon: fa-solid fa-tag
+
+      - name: Deep Learning
         date: 2018-01-01
         issuer: Stanford University
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Multilingual Knowledge Alignment using LLMs and Knowledge Graphs
+        summary: Developed a multilingual reasoning pipeline integrating transformer-based LLMs with domain-specific knowledge graphs to detect semantic drift across languages and improve contextual consistency in machine translation systems. Implemented using PyTorch, Hugging Face Transformers, and Neo4j
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Domain Specific Knowledge Graphs
+          - Semantic Drift
+        start_date: 2024-01-01
+        end_date: 2026-12-31
 
     References:
-      - name: Professor John Doe
+      - name: Prof. John Breslin
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland.
 
-      - name: Professor Jane Smith
+      - name: Prof. Adegboyega Ojo
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Professor, Canada Research Chair in Governance and Artificial Intelligence, digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics.
