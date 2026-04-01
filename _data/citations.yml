@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-04-01'
 papers:
   dtWW3jUAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -50,15 +50,15 @@ papers:
     title: Deconvolution Pixel Layer Based Semantic Segmentation for Street View Images
     year: '2019'
   dtWW3jUAAAAJ:YsMSGLbcyi4C:
-    citations: 92
+    citations: 94
     title: 'TinyML benchmark: Executing fully connected neural networks on commodity microcontrollers'
     year: '2021'
   dtWW3jUAAAAJ:aqlVkmm33-oC:
-    citations: 137
+    citations: 139
     title: 'Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework'
     year: '2022'
   dtWW3jUAAAAJ:hFOr9nPyWt4C:
-    citations: 1
+    citations: 2
     title: Integrating I4. 0 Knowledge Graphs with Large Language Models Beyond SPARQL Endpoints
     year: '2024'
   dtWW3jUAAAAJ:mB3voiENLucC:
