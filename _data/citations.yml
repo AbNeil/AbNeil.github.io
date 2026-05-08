@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-08'
 papers:
   dtWW3jUAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Analogy of Face Recognition Algorithms and Subsequent Impact
     year: '2017'
   dtWW3jUAAAAJ:4DMP91E08xMC:
-    citations: 34
+    citations: 36
     title: Self-attention transformer-based architecture for remaining useful life estimation of complex machines
     year: '2023'
   dtWW3jUAAAAJ:7PzlFSSx8tAC:
-    citations: 11
+    citations: 12
     title: 'TCRSCANet: Harnessing temporal convolutions and recurrent skip component for enhanced RUL estimation in mechanical systems'
     year: '2024'
   dtWW3jUAAAAJ:9yKSN-GCB0IC:
@@ -50,11 +50,11 @@ papers:
     title: Deconvolution Pixel Layer Based Semantic Segmentation for Street View Images
     year: '2019'
   dtWW3jUAAAAJ:YsMSGLbcyi4C:
-    citations: 94
+    citations: 95
     title: 'TinyML benchmark: Executing fully connected neural networks on commodity microcontrollers'
     year: '2021'
   dtWW3jUAAAAJ:aqlVkmm33-oC:
-    citations: 141
+    citations: 145
     title: 'Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework'
     year: '2022'
   dtWW3jUAAAAJ:hFOr9nPyWt4C:
