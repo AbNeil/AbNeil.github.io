@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-11'
 papers:
   dtWW3jUAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Image denoising method based on directional total variation filtering
     year: '2017'
   dtWW3jUAAAAJ:HDshCWvjkbEC:
-    citations: 0
+    citations: 1
     title: 'Deepfake Audio Detection in Low-Resource Languages: A Case Study of Urdu'
     year: '2026'
   dtWW3jUAAAAJ:IWHjjKOFINEC:
@@ -54,7 +54,7 @@ papers:
     title: 'TinyML benchmark: Executing fully connected neural networks on commodity microcontrollers'
     year: '2021'
   dtWW3jUAAAAJ:aqlVkmm33-oC:
-    citations: 145
+    citations: 147
     title: 'Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework'
     year: '2022'
   dtWW3jUAAAAJ:hFOr9nPyWt4C:
