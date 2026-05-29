@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-29'
 papers:
   dtWW3jUAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Analogy of Face Recognition Algorithms and Subsequent Impact
     year: '2017'
   dtWW3jUAAAAJ:4DMP91E08xMC:
-    citations: 36
+    citations: 37
     title: Self-attention transformer-based architecture for remaining useful life estimation of complex machines
     year: '2023'
   dtWW3jUAAAAJ:7PzlFSSx8tAC:
@@ -18,7 +18,7 @@ papers:
     title: Image denoising method based on directional total variation filtering
     year: '2017'
   dtWW3jUAAAAJ:HDshCWvjkbEC:
-    citations: 1
+    citations: 2
     title: 'Deepfake Audio Detection in Low-Resource Languages: A Case Study of Urdu'
     year: '2026'
   dtWW3jUAAAAJ:IWHjjKOFINEC:
@@ -54,7 +54,7 @@ papers:
     title: 'TinyML benchmark: Executing fully connected neural networks on commodity microcontrollers'
     year: '2021'
   dtWW3jUAAAAJ:aqlVkmm33-oC:
-    citations: 147
+    citations: 149
     title: 'Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework'
     year: '2022'
   dtWW3jUAAAAJ:hFOr9nPyWt4C:
