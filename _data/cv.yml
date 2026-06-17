@@ -102,27 +102,24 @@ cv:
         summary: Awarded a highly competitive national fellowship supporting industry-aligned research with FCAT, Fidelity Investments, 2026.
 
     Publications:
-      - title: Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework
+      - title: "Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework"
         authors: []
         publisher: Artificial Intelligence and Optimization in Industry 4.0, MDPI
         releaseDate: 2022-04-22
         url: https://doi.org/10.13140/RG.2.2.11628.78724
-        summary: This work proposes a method for multivariate time-series forecasting for predictive maintenance (PdM) based on a combination of convolutional neural networks and long short-term memory with skip connection (CNN-LSTM).
-
+        summary: "This work proposes a method for multivariate time-series forecasting for predictive maintenance (PdM) based on a combination of convolutional neural networks and long short-term memory with skip connection (CNN-LSTM)."
       - title: "Integrating I4.0 Knowledge Graphs with Large Language Models Beyond SPARQL Endpoints"
         authors: []
         publisher: ISWC
         releaseDate: 2024-08-03
         url: https://doi.org/10.13140/RG.2.2.11628.78724
-        summary: In this work, we present a framework and preliminary results of integrating Industry 4.0 KGs with LLMs to improve the way data is represented, reasoned, and processed in manufacturing contexts.
-
+        summary: "In this work, we present a framework and preliminary results of integrating Industry 4.0 KGs with LLMs to improve the way data is represented, reasoned, and processed in manufacturing contexts."
       - title: "TCRSCANet: Harnessing temporal convolutions and recurrent skip component for enhanced RUL estimation in mechanical systems"
         authors: []
         publisher: Human-Centric Intelligent Systems
         releaseDate: 2024-03-03
         url: https://doi.org/10.1007/s44230-023-00060-0
-        summary: The goal of this study is to find out how to predict the RUL of mechanical systems using complex sensor data. We present a data-driven framework called TCRSCANet, combining temporal convolution, recurrent skip components, and an attention mechanism.
-
+        summary: "The goal of this study is to find out how to predict the RUL of mechanical systems using complex sensor data. We present a data-driven framework called TCRSCANet, combining temporal convolution, recurrent skip components, and an attention mechanism."
     Skills:
       - name: Engineering/AI
         level: Master
