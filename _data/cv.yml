@@ -42,7 +42,7 @@ cv:
         position: Industry Research Fellow
         location: Galway, Ireland
         start_date: 2026-01-01
-        end_date:
+        end_date: present
         highlights:
           - Leading a project on market-level markers and temporal trends that best predict long-term forecasting accuracy, robustness, and stability of prediction markets.
 
@@ -50,14 +50,14 @@ cv:
         position: Post-Doctoral Researcher
         location: Galway, Ireland
         start_date: 2024-01-01
-        end_date:
+        end_date: 2026-12-31
         highlights: []
 
       - company: School of Computing, National College of Ireland
         position: Associate Lecturer (Part-time)
         location: Dublin, Ireland
         start_date: 2025-01-01
-        end_date:
+        end_date: present
         highlights: []
 
       - company: Technological University of Shannon
@@ -113,17 +113,17 @@ cv:
         summary: "A data-driven framework called TCRSCANet combining temporal convolution, recurrent skip components, and an attention mechanism for RUL prediction."
 
     Skills:
-      - label: Engineering/AI
+      - name: Engineering/AI
         details: "Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models"
 
     Languages:
-      - label: Kashmiri
+      - name: Kashmiri
         details: Native speaker
       - label: English
         details: Fluent
 
     Interests:
-      - label: Engineering/AI
+      - name: Engineering/AI
         details: "Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics and Trustworthy AI, Prediction Markets and Computational Market Design, Semantic Web and Intelligent Information Systems"
 
     Certificates:
@@ -149,7 +149,7 @@ cv:
           - Semantic Drift
 
     References:
-      - label: Prof. John Breslin
+      - name: Prof. John Breslin
         details: "Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland."
-      - label: Prof. Adegboyega Ojo
+      - name: Prof. Adegboyega Ojo
         details: "Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics."
