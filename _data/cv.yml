@@ -119,13 +119,12 @@ cv:
     Languages:
       - name: Kashmiri
         details: Native speaker
-      - label: English
+      - name: English
         details: Fluent
 
-    Interests:
-      - name: Engineering/AI
-        details: "Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics and Trustworthy AI, Prediction Markets and Computational Market Design, Semantic Web and Intelligent Information Systems"
-
+    Research Interests:
+      - name: "Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics and Trustworthy AI, Prediction Markets and Computational Market Design, Semantic Web and Intelligent Information Systems"
+        
     Certificates:
       - name: Machine Learning
         date: 2018-01-01
