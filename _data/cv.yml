@@ -91,14 +91,12 @@ cv:
         start_date: 2016
         end_date: 2017
 
-    Volunteer:
       - company: Huawei Research
         position: Research and Development Intern
         location: Dublin, Ireland
         start_date: 2022-01-01
         end_date: 2022-08-30
-        summary: .
-        highlights:
+  
       
 
     Awards:
