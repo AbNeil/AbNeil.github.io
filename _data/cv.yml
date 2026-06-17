@@ -137,20 +137,5 @@ cv:
         date: 2018-01-01
         issuer: Stanford University
 
-    Projects:
-      - name: "Multilingual Knowledge Alignment using LLMs and Knowledge Graphs"
-        start_date: 2024-01-01
-        end_date: 2026-12-31
-        summary: "Developed a multilingual reasoning pipeline integrating transformer-based LLMs with domain-specific knowledge graphs to detect semantic drift across languages and improve contextual consistency in machine translation systems. Implemented using PyTorch, Hugging Face Transformers, and Neo4j."
-        highlights:
-          - Domain Specific Knowledge Graphs
-          - Semantic Drift
 
-    References:
-      - name: Prof. John Breslin
-              highlights:
-          - Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland.
-      - name: Prof. Adegboyega Ojo
-                    highlights:
-          - Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics.
         
