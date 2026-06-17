@@ -112,18 +112,17 @@ cv:
         url: https://doi.org/10.1007/s44230-023-00060-0
         summary: "A data-driven framework called TCRSCANet combining temporal convolution, recurrent skip components, and an attention mechanism for RUL prediction."
 
-    Skills:
-      - name: Engineering/AI
-        details: "Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models"
 
     Languages:
-      - name: Kashmiri
+      - name: Kashmiri (Native speaker)
         details: Native speaker
-      - name: English
+      - name: English (Fluent)
         details: Fluent
-
+      - name: Korean (Basic)
+        details: Fluent
+      - name: Arabic (Reading & Writing)
     Research Interests:
-      - name: "Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics and Trustworthy AI, Prediction Markets and Computational Market Design, Semantic Web and Intelligent Information Systems"
+      - name: Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics and Trustworthy AI, Prediction Markets and Computational Market Design, Semantic Web and Intelligent Information Systems
         
     Certificates:
       - name: Machine Learning
@@ -149,6 +148,9 @@ cv:
 
     References:
       - name: Prof. John Breslin
-        details: "Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland."
+              highlights:
+          - Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland.
       - name: Prof. Adegboyega Ojo
-        details: "Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics."
+                    highlights:
+          - Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics.
+        
