@@ -30,11 +30,7 @@ cv:
         studyType: PhD
         start_date: 2019
         end_date: 2024
-        score: ""
-        courses: ""
-        highlights:
-          
-          
+        highlights: []
 
       - institution: Chonbuk National University
         location: Jeonju, South Korea
@@ -42,7 +38,7 @@ cv:
         studyType: Master's in Engineering
         start_date: 2014
         end_date: 2016
-        highlights:
+        highlights: []
 
       - institution: Baba Ghulam Shah Badshah University
         location: Rajouri, India
@@ -50,99 +46,85 @@ cv:
         studyType: Bachelor's in Engineering
         start_date: 2008
         end_date: 2012
-        highlights:
-
-          
-          
+        highlights: []
 
     Experience:
       - company: Fidelity Investments
         position: Industry Research Fellow
         location: Galway, Ireland
-        start_date: 2026
-        end_date: 
+        start_date: 2026-01-01
+        end_date:
         summary: Leading a project on market-level markers and temporal trends that best predict long-term forecasting accuracy, robustness, and stability of prediction markets.
-        highlights:
-
+        highlights: []
 
       - company: Data Science Institute, University of Galway
         position: Post-Doctoral Researcher
         location: Galway, Ireland
-        start_date: 2024
-        end_date: 
-        highlights:
-     
+        start_date: 2024-01-01
+        end_date:
+        highlights: []
 
       - company: School of Computing, National College of Ireland
         position: Associate Lecturer (Part-time)
         location: Dublin, Ireland
-        start_date: 2025
-        end_date: 
+        start_date: 2025-01-01
+        end_date:
+        highlights: []
 
       - company: Technological University of Shannon
         position: Assistant Lecturer (Part-time)
         location: Shannon, Ireland
-        start_date: 2025
-        end_date: 2025
+        start_date: 2025-01-01
+        end_date: 2025-12-31
+        highlights: []
 
       - company: Yuncheng University
         position: Lecturer
         location: Yuncheng, Shanxi, China
-        start_date: 2016
-        end_date: 2017
+        start_date: 2016-01-01
+        end_date: 2017-12-31
+        highlights: []
 
       - company: Huawei Research
         position: Research and Development Intern
         location: Dublin, Ireland
         start_date: 2022-01-01
         end_date: 2022-08-30
-  
-      
+        highlights: []
 
     Awards:
       - title: Academic-Industry Postdoctoral Fellowship
         authors:
-          - "Research Ireland"
-        date: 2026-01-0
+          - Research Ireland
+        date: 2026-01-01
         awarder: Research Ireland
         url: https://www.researchireland.ie/funding/enterprise-fellowships/
         summary: Awarded a highly competitive national fellowship supporting industry-aligned research with FCAT, Fidelity Investments, 2026.
-        
-      - title: 
-        authors:
-          
-        date: 
-        awarder: 
-        summary: 
 
     Publications:
-      - title: Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework"
-        authors:
-          - 
+      - title: Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework
+        authors: []
         publisher: Artificial Intelligence and Optimization in Industry 4.0, MDPI
         releaseDate: 2022-04-22
-        url: https://10.13140/RG.2.2.11628.78724
+        url: https://doi.org/10.13140/RG.2.2.11628.78724
         summary: This work proposes a method for multivariate time-series forecasting for predictive maintenance (PdM) based on a combination of convolutional neural networks and long short-term memory with skip connection (CNN-LSTM).
-        
-      - title: Integrating I4. 0 Knowledge Graphs with Large Language Models Beyond SPARQL Endpoints
-        authors:
-          
+
+      - title: "Integrating I4.0 Knowledge Graphs with Large Language Models Beyond SPARQL Endpoints"
+        authors: []
         publisher: ISWC
         releaseDate: 2024-08-03
-        url: 10.13140/RG.2.2.11628.78724
-        summary: In this work, we present a framework and preliminary results of integrating Industry 4.0 KGs with LLMs to improve the way data is represented, reasoned, and processed in manufacturing contexts, which facilitates user interaction with KGs and contributes to operational efficiency.
-  
+        url: https://doi.org/10.13140/RG.2.2.11628.78724
+        summary: In this work, we present a framework and preliminary results of integrating Industry 4.0 KGs with LLMs to improve the way data is represented, reasoned, and processed in manufacturing contexts.
 
-      - title: TCRSCANet: Harnessing temporal convolutions and recurrent skip component for enhanced RUL estimation in mechanical systems
-        authors:
-         
+      - title: "TCRSCANet: Harnessing temporal convolutions and recurrent skip component for enhanced RUL estimation in mechanical systems"
+        authors: []
         publisher: Human-Centric Intelligent Systems
         releaseDate: 2024-03-03
-        url: 10.1007/s44230-023-00060-0
-        summary: The goal of this study is to find out how to predict the RUL of mechanical systems using complex sensor data. To do this, we present a data-driven framework called temporal convolution, along with a recurrent skip component and an attention mechanism network called TCRSCANet.
+        url: https://doi.org/10.1007/s44230-023-00060-0
+        summary: The goal of this study is to find out how to predict the RUL of mechanical systems using complex sensor data. We present a data-driven framework called TCRSCANet combining temporal convolution, recurrent skip components, and an attention mechanism.
 
     Skills:
-      - name: PEngineering/AI
+      - name: Engineering/AI
         level: Master
         icon: fa-solid fa-hashtag
         keywords: "Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models"
@@ -150,7 +132,6 @@ cv:
     Languages:
       - name: Kashmiri
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
@@ -164,12 +145,10 @@ cv:
         date: 2018-01-01
         issuer: Stanford University
         icon: fa-solid fa-location-dot
-
       - name: Generative AI with Diffusion Models
         date: 2026-03-05
         issuer: Nvidia
         icon: fa-solid fa-tag
-
       - name: Deep Learning
         date: 2018-01-01
         issuer: Stanford University
@@ -177,7 +156,7 @@ cv:
 
     Projects:
       - name: Multilingual Knowledge Alignment using LLMs and Knowledge Graphs
-        summary: Developed a multilingual reasoning pipeline integrating transformer-based LLMs with domain-specific knowledge graphs to detect semantic drift across languages and improve contextual consistency in machine translation systems. Implemented using PyTorch, Hugging Face Transformers, and Neo4j
+        summary: Developed a multilingual reasoning pipeline integrating transformer-based LLMs with domain-specific knowledge graphs to detect semantic drift across languages and improve contextual consistency in machine translation systems. Implemented using PyTorch, Hugging Face Transformers, and Neo4j.
         highlights:
           - Domain Specific Knowledge Graphs
           - Semantic Drift
@@ -188,7 +167,6 @@ cv:
       - name: Prof. John Breslin
         icon: fa-solid fa-laptop
         reference: Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland.
-
       - name: Prof. Adegboyega Ojo
         icon: fa-solid fa-thumbtack
-        reference: Professor, Canada Research Chair in Governance and Artificial Intelligence, digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics.
+        reference: Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics.
