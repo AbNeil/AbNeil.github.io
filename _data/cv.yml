@@ -1,11 +1,7 @@
 cv:
   name: Abdul Wahid
-  label: Scientist
   email: abdul.a.wahid@universityofgalway.ie
   location: Galway, Ireland
-  image: ""
-  summary: I am a computer scientist with expertise at the intersection of software systems, data-intensive architectures, and AI-enabled platforms. My research focuses on building robust, scalable, and interpretable computational systems, integrating software engineering principles, distributed systems, and machine learning. I combine formal modelling, system-level design, and empirical evaluation to address reliability, performance, and trustworthiness in complex software-driven environments. I bring a strong record of peer-reviewed research, competitive funding, undergraduate and postgraduate teaching, and interdisciplinary collaboration, with clear potential for leadership in Software & Systems research.
-
   social_networks:
     - network: X
       username: K_Neeil
@@ -47,8 +43,8 @@ cv:
         location: Galway, Ireland
         start_date: 2026-01-01
         end_date:
-        summary: Leading a project on market-level markers and temporal trends that best predict long-term forecasting accuracy, robustness, and stability of prediction markets.
-        highlights: []
+        highlights:
+          - Leading a project on market-level markers and temporal trends that best predict long-term forecasting accuracy, robustness, and stability of prediction markets.
 
       - company: Data Science Institute, University of Galway
         position: Post-Doctoral Researcher
@@ -88,7 +84,7 @@ cv:
     Awards:
       - name: Academic-Industry Postdoctoral Fellowship
         date: 2026-01-01
-        summary: Awarded by Research Ireland. Highly competitive national fellowship supporting industry-aligned research with FCAT, Fidelity Investments.
+        summary: "Awarded by Research Ireland. Highly competitive national fellowship supporting industry-aligned research with FCAT, Fidelity Investments."
         url: https://www.researchireland.ie/funding/enterprise-fellowships/
 
     Publications:
@@ -117,14 +113,18 @@ cv:
         summary: "A data-driven framework called TCRSCANet combining temporal convolution, recurrent skip components, and an attention mechanism for RUL prediction."
 
     Skills:
-      - name: Engineering/AI
+      - label: Engineering/AI
         details: "Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models"
 
     Languages:
-      - name: Kashmiri
+      - label: Kashmiri
         details: Native speaker
-      - name: English
+      - label: English
         details: Fluent
+
+    Interests:
+      - label: Engineering/AI
+        details: "Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics and Trustworthy AI, Prediction Markets and Computational Market Design, Semantic Web and Intelligent Information Systems"
 
     Certificates:
       - name: Machine Learning
@@ -140,7 +140,7 @@ cv:
         issuer: Stanford University
 
     Projects:
-      - name: Multilingual Knowledge Alignment using LLMs and Knowledge Graphs
+      - name: "Multilingual Knowledge Alignment using LLMs and Knowledge Graphs"
         start_date: 2024-01-01
         end_date: 2026-12-31
         summary: "Developed a multilingual reasoning pipeline integrating transformer-based LLMs with domain-specific knowledge graphs to detect semantic drift across languages and improve contextual consistency in machine translation systems. Implemented using PyTorch, Hugging Face Transformers, and Neo4j."
@@ -149,7 +149,7 @@ cv:
           - Semantic Drift
 
     References:
-      - name: Prof. John Breslin
-        details: Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland.
-      - name: Prof. Adegboyega Ojo
-        details: Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics.
+      - label: Prof. John Breslin
+        details: "Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland."
+      - label: Prof. Adegboyega Ojo
+        details: "Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics."
