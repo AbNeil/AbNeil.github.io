@@ -12,14 +12,7 @@ cv:
     - network: GitHub
       username: AbNeil
     - network: LinkedIn
-      username: https://www.linkedin.com/in/abdul-wahid-a5a91368/
-
-  address:
-    street: 123 IDA Business Park
-    city: Galway
-    region: Galway
-    postalCode: H91 AEX4
-    countryCode: IRE
+      username: abdul-wahid-a5a91368
 
   sections:
     Education:
@@ -27,25 +20,25 @@ cv:
         location: Galway, Ireland
         url: https://www.universityofgalway.ie/
         area: Electrical & Electronics Engineering
-        studyType: PhD
-        start_date: 2019
-        end_date: 2024
+        degree: PhD
+        start_date: 2019-09-01
+        end_date: 2024-06-01
         highlights: []
 
       - institution: Chonbuk National University
         location: Jeonju, South Korea
         area: Electronics and Information Engineering
-        studyType: Master's in Engineering
-        start_date: 2014
-        end_date: 2016
+        degree: Master's in Engineering
+        start_date: 2014-09-01
+        end_date: 2016-06-01
         highlights: []
 
       - institution: Baba Ghulam Shah Badshah University
         location: Rajouri, India
         area: Information Technology Engineering
-        studyType: Bachelor's in Engineering
-        start_date: 2008
-        end_date: 2012
+        degree: Bachelor's in Engineering
+        start_date: 2008-09-01
+        end_date: 2012-06-01
         highlights: []
 
     Experience:
@@ -93,62 +86,70 @@ cv:
         highlights: []
 
     Awards:
-      - title: Academic-Industry Postdoctoral Fellowship
-        authors:
-          - Research Ireland
+      - name: Academic-Industry Postdoctoral Fellowship
         date: 2026-01-01
-        awarder: Research Ireland
+        summary: Awarded by Research Ireland. Highly competitive national fellowship supporting industry-aligned research with FCAT, Fidelity Investments.
         url: https://www.researchireland.ie/funding/enterprise-fellowships/
-        summary: Awarded a highly competitive national fellowship supporting industry-aligned research with FCAT, Fidelity Investments, 2026.
 
     Publications:
       - title: "Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework"
-        authors: []
-        publisher: Artificial Intelligence and Optimization in Industry 4.0, MDPI
-        releaseDate: 2022-04-22
+        authors:
+          - Abdul Wahid
+        date: 2022-04-22
+        journal: Artificial Intelligence and Optimization in Industry 4.0, MDPI
         url: https://doi.org/10.13140/RG.2.2.11628.78724
         summary: "This work proposes a method for multivariate time-series forecasting for predictive maintenance (PdM) based on a combination of convolutional neural networks and long short-term memory with skip connection (CNN-LSTM)."
+
       - title: "Integrating I4.0 Knowledge Graphs with Large Language Models Beyond SPARQL Endpoints"
-        authors: []
-        publisher: ISWC
-        releaseDate: 2024-08-03
+        authors:
+          - Abdul Wahid
+        date: 2024-08-03
+        journal: ISWC
         url: https://doi.org/10.13140/RG.2.2.11628.78724
-        summary: "In this work, we present a framework and preliminary results of integrating Industry 4.0 KGs with LLMs to improve the way data is represented, reasoned, and processed in manufacturing contexts."
+        summary: "A framework integrating Industry 4.0 KGs with LLMs to improve data representation, reasoning, and processing in manufacturing contexts."
+
       - title: "TCRSCANet: Harnessing temporal convolutions and recurrent skip component for enhanced RUL estimation in mechanical systems"
-        authors: []
-        publisher: Human-Centric Intelligent Systems
-        releaseDate: 2024-03-03
+        authors:
+          - Abdul Wahid
+        date: 2024-03-03
+        journal: Human-Centric Intelligent Systems
         url: https://doi.org/10.1007/s44230-023-00060-0
-        summary: "The goal of this study is to find out how to predict the RUL of mechanical systems using complex sensor data. We present a data-driven framework called TCRSCANet, combining temporal convolution, recurrent skip components, and an attention mechanism."
+        summary: "A data-driven framework called TCRSCANet combining temporal convolution, recurrent skip components, and an attention mechanism for RUL prediction."
+
     Skills:
       - name: Engineering/AI
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models"
+        details: "Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models"
 
     Languages:
       - name: Kashmiri
-        summary: "Native speaker"
+        details: Native speaker
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Engineering/AI
-        icon: fa-solid fa-tag
-        keywords: "Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics, and Trustworthy AI, Prediction Markets and Computational Market Design, Virtual Worlds, Metaverse, and Digital Ecosystems, Semantic Web and Intelligent Information Systems"
+        details: Fluent
 
     Certificates:
       - name: Machine Learning
         date: 2018-01-01
         issuer: Stanford University
-        icon: fa-solid fa-location-dot
+
       - name: Generative AI with Diffusion Models
         date: 2026-03-05
         issuer: Nvidia
-        icon: fa-solid fa-tag
+
       - name: Deep Learning
         date: 2018-01-01
         issuer: Stanford University
-        icon: fa-solid fa-tag
 
- 
+    Projects:
+      - name: Multilingual Knowledge Alignment using LLMs and Knowledge Graphs
+        start_date: 2024-01-01
+        end_date: 2026-12-31
+        summary: "Developed a multilingual reasoning pipeline integrating transformer-based LLMs with domain-specific knowledge graphs to detect semantic drift across languages and improve contextual consistency in machine translation systems. Implemented using PyTorch, Hugging Face Transformers, and Neo4j."
+        highlights:
+          - Domain Specific Knowledge Graphs
+          - Semantic Drift
+
+    References:
+      - name: Prof. John Breslin
+        details: Professor of Electronics Engineering, PI Data Science Institute & Insight Centre, University of Galway, Ireland.
+      - name: Prof. Adegboyega Ojo
+        details: Professor, Canada Research Chair in Governance and Artificial Intelligence; digital Government; artificial intelligence governance; data-intensive public sector innovation; policy analytics.
