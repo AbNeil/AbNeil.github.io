@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-08'
 papers:
   dtWW3jUAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Analogy of Face Recognition Algorithms and Subsequent Impact
     year: '2017'
   dtWW3jUAAAAJ:4DMP91E08xMC:
-    citations: 38
+    citations: 39
     title: Self-attention transformer-based architecture for remaining useful life estimation of complex machines
     year: '2023'
   dtWW3jUAAAAJ:7PzlFSSx8tAC:
@@ -18,7 +18,7 @@ papers:
     title: Image denoising method based on directional total variation filtering
     year: '2017'
   dtWW3jUAAAAJ:HDshCWvjkbEC:
-    citations: 2
+    citations: 3
     title: 'Deepfake Audio Detection in Low-Resource Languages: A Case Study of Urdu'
     year: '2026'
   dtWW3jUAAAAJ:IWHjjKOFINEC:
@@ -29,6 +29,10 @@ papers:
     citations: 0
     title: Caption Generation Model for Images using Convolutional Neural Networks
     year: '2018'
+  dtWW3jUAAAAJ:TQgYirikUcIC:
+    citations: 0
+    title: A battery-dependent partial offloading scheme with sequential multi-task learning for mobile edge computing
+    year: '2026'
   dtWW3jUAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Detection of pedestrians in motion with rotation and scale variation
@@ -50,11 +54,11 @@ papers:
     title: Deconvolution Pixel Layer Based Semantic Segmentation for Street View Images
     year: '2019'
   dtWW3jUAAAAJ:YsMSGLbcyi4C:
-    citations: 96
+    citations: 97
     title: 'TinyML benchmark: Executing fully connected neural networks on commodity microcontrollers'
     year: '2021'
   dtWW3jUAAAAJ:aqlVkmm33-oC:
-    citations: 157
+    citations: 162
     title: 'Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework'
     year: '2022'
   dtWW3jUAAAAJ:hFOr9nPyWt4C:
