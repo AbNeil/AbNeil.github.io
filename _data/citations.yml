@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-12'
 papers:
   dtWW3jUAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Analogy of Face Recognition Algorithms and Subsequent Impact
     year: '2017'
   dtWW3jUAAAAJ:4DMP91E08xMC:
-    citations: 40
+    citations: 39
     title: Self-attention transformer-based architecture for remaining useful life estimation of complex machines
     year: '2023'
   dtWW3jUAAAAJ:7PzlFSSx8tAC:
@@ -47,26 +47,22 @@ papers:
     year: '2019'
   dtWW3jUAAAAJ:WF5omc3nYNoC:
     citations: 19
-    title: 'Porting and execution of anomalies detection models on embedded systems in iot: Demo abstract'
+    title: 'Demo abstract: Porting and execution of anomalies detection models on embedded systems in iot'
     year: '2021'
   dtWW3jUAAAAJ:Wp0gIr-vW9MC:
     citations: 3
     title: 'Digital twins: modelling languages comparison'
     year: '2022'
-  dtWW3jUAAAAJ:Y0pCki6q_DkC:
-    citations: 0
-    title: Deconvolution Pixel Layer Based Semantic Segmentation for Street View Images
-    year: '2019'
   dtWW3jUAAAAJ:YsMSGLbcyi4C:
-    citations: 98
+    citations: 96
     title: 'TinyML benchmark: Executing fully connected neural networks on commodity microcontrollers'
     year: '2021'
   dtWW3jUAAAAJ:aqlVkmm33-oC:
-    citations: 162
+    citations: 161
     title: 'Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework'
     year: '2022'
   dtWW3jUAAAAJ:hFOr9nPyWt4C:
-    citations: 2
+    citations: 3
     title: Integrating I4. 0 Knowledge Graphs with Large Language Models Beyond SPARQL Endpoints
     year: '2024'
   dtWW3jUAAAAJ:mB3voiENLucC:
