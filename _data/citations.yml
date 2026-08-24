@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-24'
 papers:
   dtWW3jUAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Analogy of Face Recognition Algorithms and Subsequent Impact
     year: '2017'
   dtWW3jUAAAAJ:4DMP91E08xMC:
-    citations: 39
+    citations: 40
     title: Self-attention transformer-based architecture for remaining useful life estimation of complex machines
     year: '2023'
   dtWW3jUAAAAJ:7PzlFSSx8tAC:
@@ -54,11 +54,11 @@ papers:
     title: 'Digital twins: modelling languages comparison'
     year: '2022'
   dtWW3jUAAAAJ:YsMSGLbcyi4C:
-    citations: 96
+    citations: 98
     title: 'TinyML benchmark: Executing fully connected neural networks on commodity microcontrollers'
     year: '2021'
   dtWW3jUAAAAJ:aqlVkmm33-oC:
-    citations: 161
+    citations: 164
     title: 'Prediction of machine failure in industry 4.0: a hybrid CNN-LSTM framework'
     year: '2022'
   dtWW3jUAAAAJ:hFOr9nPyWt4C:
