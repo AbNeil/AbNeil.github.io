@@ -11,8 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+353830892514</p>
-    <p>West Campus, Carriganore, 
-An Campas Thiar, Carraig an Óir, Contae Phort Láirge, X91 XD96, Éire</p>
+    <p>West Campus, Carriganore</p>
     <p>County Waterford, X91 XD96, Ireland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
