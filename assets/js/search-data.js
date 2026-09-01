@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Current and previous university teaching in artificial intelligence, machine learning, data infrastructure, and autonomous systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
