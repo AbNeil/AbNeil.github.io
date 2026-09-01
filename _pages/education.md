@@ -13,11 +13,11 @@ nav_order: 6
       <div class="row align-items-center">
         <div class="col-12 col-sm-3 text-center mb-3 mb-sm-0">
           <a href="https://www.universityofgalway.ie/" target="_blank" rel="noopener">
-            <img src="https://connectedhubs.ie/files/core/Company/90/logo/4fab2cb2-3962-465c-b9ca-85af08267b86/University_of_Galway_logo_2022.png" alt="University of Galway logo" style="width: 96px; height: 96px; object-fit: contain;">
+            <img src="https://cdn.brandfetch.io/idwCEx9xMU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751357568110" alt="University of Galway logo" style="width: 96px; height: 96px; object-fit: contain;">
           </a>
         </div>
         <div class="col-12 col-sm-9">
-          <h4 class="card-title"><strong><em>PhD in Electrical and Electronic Engineering</em></strong></h4>
+          <h5 class="card-title" style="font-size: 1rem; line-height: 1.35; margin-bottom: 0.5rem;"><strong><em>PhD in Electrical and Electronic Engineering</em></strong></h5>
           <p class="card-text"><em>University of Galway, Ireland</em></p>
           <p class="card-text"><strong>Completed:</strong> 2024</p>
         </div>
@@ -34,7 +34,7 @@ nav_order: 6
           </a>
         </div>
         <div class="col-12 col-sm-9">
-          <h4 class="card-title"><strong><em>MS in Electronics and Information Engineering</em></strong></h4>
+          <h5 class="card-title" style="font-size: 1rem; line-height: 1.35; margin-bottom: 0.5rem;"><strong><em>MS in Electronics and Information Engineering</em></strong></h5>
           <p class="card-text"><em>Chonbuk National University, South Korea</em></p>
           <p class="card-text"><strong>Completed:</strong> 2016</p>
         </div>
@@ -51,7 +51,7 @@ nav_order: 6
           </a>
         </div>
         <div class="col-12 col-sm-9">
-          <h4 class="card-title"><strong><em>Bachelor of Technology in Information Technology Engineering</em></strong></h4>
+          <h5 class="card-title" style="font-size: 1rem; line-height: 1.35; margin-bottom: 0.5rem;"><strong><em>Bachelor of Technology in Information Technology Engineering</em></strong></h5>
           <p class="card-text"><em>Baba Ghulam Shah Badshah University, India</em></p>
           <p class="card-text"><strong>Completed:</strong> 2012</p>
         </div>
