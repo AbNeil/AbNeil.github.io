@@ -15,9 +15,7 @@ profile:
     <p><strong>Address:</strong><br>
     Room No. 3, Portacabin,<br>
     West Campus, Carriganore,<br>
-    County Waterford, X91 XD96, Ireland<br>
-    An Campas Thiar, Carraig an Óir,<br>
-    Contae Phort Láirge, X91 XD96, Éire</p>
+    County Waterford, X91 XD96, Ireland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,6 +30,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<style>
+.profile img {
+  aspect-ratio: 1 / 1;
+  border-radius: 50% !important;
+  object-fit: cover;
+  object-position: center;
+}
+</style>
 
 I am a Lecturer above the bar in Computer Science at South East Technological University (SETU) and a Research Ireland Industry Fellow with Fidelity Investments. My research combines large language models, knowledge graphs, semantic ontologies, counterfactual reasoning, and prediction markets to develop reliable, explainable, and trustworthy AI systems. I received my PhD in Electrical and Electronic Engineering from the University of Galway in 2024. I hold a Master’s degree in Electronics and Information Engineering from Chonbuk National University, South Korea, in 2014 and a Bachelor’s degree in Information Technology Engineering from Baba Ghulam Shah Badshah University, India, in 2012.
 
