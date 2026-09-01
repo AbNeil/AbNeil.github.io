@@ -13,7 +13,7 @@ nav_order: 6
       <div class="row align-items-center">
         <div class="col-12 col-sm-3 text-center mb-3 mb-sm-0">
           <a href="https://www.universityofgalway.ie/" target="_blank" rel="noopener">
-            <img src="https://cdn.brandfetch.io/idwCEx9xMU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751357568110" alt="University of Galway logo" style="width: 96px; height: 96px; object-fit: contain;">
+            <img src="https://stories.nuigalway.ie/prof-caroline-mcintosh/assets/KVZKw6d9kZ/university_of_galway_logo__positive_landscape_stacked-4096x2537.png" alt="University of Galway logo" style="width: 96px; height: 96px; object-fit: contain;">
           </a>
         </div>
         <div class="col-12 col-sm-9">
