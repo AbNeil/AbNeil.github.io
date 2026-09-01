@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-education",
-          title: "education",
-          description: "My academic background and qualifications.",
+          title: "Education",
+          description: "Academic qualifications in engineering, information technology, and intelligent systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/education/";
