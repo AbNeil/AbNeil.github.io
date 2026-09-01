@@ -8,11 +8,16 @@ subtitle: <a href='#'> South East Technological University</a>.
 profile:
   align: right
   image: profile.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>+353830892514</p>
-    <p>West Campus, Carriganore</p>
-    <p>County Waterford, X91 XD96, Ireland</p>
+    <p><strong>Email:</strong> <a href="mailto:awahidabdul1@gmail.com">awahidabdul1@gmail.com</a></p>
+    <p><strong>Mobile:</strong> <a href="tel:+353830892514">+353 83 089 2514</a></p>
+    <p><strong>Address:</strong><br>
+    Room No. 3, Portacabin,<br>
+    West Campus, Carriganore,<br>
+    County Waterford, X91 XD96, Ireland<br>
+    An Campas Thiar, Carraig an Óir,<br>
+    Contae Phort Láirge, X91 XD96, Éire</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
