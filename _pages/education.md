@@ -2,9 +2,12 @@
 layout: page
 title: Education
 permalink: /education/
-description: Academic qualifications in engineering, information technology, and intelligent systems.
 nav: true
 nav_order: 6
+_styles: |
+  .post-header {
+    display: none;
+  }
 ---
 
 <div class="education">
