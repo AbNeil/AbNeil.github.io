@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-education",
           title: "Education",
-          description: "Academic qualifications in engineering, information technology, and intelligent systems.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/education/";
