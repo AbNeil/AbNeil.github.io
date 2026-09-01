@@ -2,64 +2,52 @@
 layout: page
 title: Projects
 permalink: /Projects/
-description: A growing collection of my projects.
+description: Selected research and industry projects in trustworthy AI, knowledge graphs, multilingual language technologies, digital twins, and predictive analytics.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Multilingual Knowledge Alignment using LLMs and Knowledge Graphs</h3>
+      <p class="card-subtitle mb-2 text-muted">Horizon Europe</p>
+      <p class="card-text">Developed a multilingual reasoning pipeline integrating transformer-based large language models with domain-specific knowledge graphs to detect semantic drift across languages and improve contextual consistency in machine translation systems.</p>
+      <p class="card-text"><strong>Technologies:</strong> PyTorch, Hugging Face Transformers, Neo4j</p>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Graph-RAG for Ethics and IPR in Virtual Worlds</h3>
+      <p class="card-text">Designed a retrieval-augmented generation framework combining structured knowledge graphs with generative language models to answer ethical, intellectual-property, and policy questions across multilingual datasets. Hybrid symbolic-neural reasoning improved retrieval precision by 34%.</p>
+      <p class="card-text"><strong>Focus:</strong> Graph-RAG, ethical governance, intellectual property, multilingual retrieval</p>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
+
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Language Quality Estimation using Generative Models</h3>
+      <p class="card-text">Built a quality-estimation model for translated text using fine-tuned T5 and GPT architectures trained on synthetic multilingual data. Integrated uncertainty estimation for confidence scoring, improving automatic localisation-review accuracy by 28% in simulation.</p>
+      <p class="card-text"><strong>Technologies:</strong> T5, GPT architectures, multilingual synthetic data, uncertainty estimation</p>
+    </div>
   </div>
-  {% endif %}
-{% endif %}
+
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Digital Twin Simulation Pipeline</h3>
+      <p class="card-subtitle mb-2 text-muted">Huawei Research Ireland</p>
+      <p class="card-text">Modelled AI-driven digital-twin environments for real-time cloud networks using distributed training and synchronisation across large datasets. Implemented model versioning, monitoring, and continuous-deployment workflows.</p>
+      <p class="card-text"><strong>Technologies:</strong> Azure Machine Learning, MLflow, distributed training, continuous deployment</p>
+    </div>
+  </div>
+
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Predictive Analytics for Automotive Retail</h3>
+      <p class="card-subtitle mb-2 text-muted">Zerve AI</p>
+      <p class="card-text">Developed and deployed machine-learning models to predict vehicle-sales velocity from market dynamics and consumer behaviour. Supported production scalability through automated data pipelines, CI/CD workflows, and explainable dashboards for non-technical stakeholders.</p>
+      <p class="card-text"><strong>Technologies:</strong> PyTorch, Azure Data Factory, CI/CD, explainable analytics</p>
+    </div>
+  </div>
 </div>
