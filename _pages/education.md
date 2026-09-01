@@ -17,7 +17,7 @@ nav_order: 6
           </a>
         </div>
         <div class="col-12 col-sm-9">
-          <h3 class="card-title"><strong><em>PhD in Electrical and Electronic Engineering</em></strong></h3>
+          <h4 class="card-title"><strong><em>PhD in Electrical and Electronic Engineering</em></strong></h4>
           <p class="card-text"><em>University of Galway, Ireland</em></p>
           <p class="card-text"><strong>Completed:</strong> 2024</p>
         </div>
@@ -34,7 +34,7 @@ nav_order: 6
           </a>
         </div>
         <div class="col-12 col-sm-9">
-          <h3 class="card-title"><strong><em>Master of Science in Electronics and Information Engineering</em></strong></h3>
+          <h4 class="card-title"><strong><em>MS in Electronics and Information Engineering</em></strong></h4>
           <p class="card-text"><em>Chonbuk National University, South Korea</em></p>
           <p class="card-text"><strong>Completed:</strong> 2016</p>
         </div>
@@ -51,7 +51,7 @@ nav_order: 6
           </a>
         </div>
         <div class="col-12 col-sm-9">
-          <h3 class="card-title"><strong><em>Bachelor of Technology in Information Technology Engineering</em></strong></h3>
+          <h4 class="card-title"><strong><em>Bachelor of Technology in Information Technology Engineering</em></strong></h4>
           <p class="card-text"><em>Baba Ghulam Shah Badshah University, India</em></p>
           <p class="card-text"><strong>Completed:</strong> 2012</p>
         </div>
