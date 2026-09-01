@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Data Science Institute (DSI), University of Galway</a>. 
+subtitle: <a href='#'> South East Technological University</a>. 
 
 
 profile:
