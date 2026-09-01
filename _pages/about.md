@@ -1,5 +1,5 @@
 ---
-layout: bout
+layout: about
 title: About
 permalink: /
 subtitle: <a href='#'> South East Technological University</a>. 
