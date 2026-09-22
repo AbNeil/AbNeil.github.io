@@ -10,7 +10,7 @@ profile:
   image: profile.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><strong>Email:</strong> <a href="mailto:awahidabdul1@gmail.com">awahidabdul1@gmail.com</a></p>
+    <p><strong>Email:</strong> <a href="mailto:abdul.wahid@setu.ie">abdul.wahid@setu.ie</a></p>
     <p><strong>Mobile:</strong> <a href="tel:+353830892514">+353 83 089 2514</a></p>
     <p><strong>Address:</strong><br>
     Room No. 3, Portacabin,<br>
