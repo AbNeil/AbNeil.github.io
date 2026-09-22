@@ -48,6 +48,27 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Event gallery -->
+    {% if page.event_gallery and page.event_gallery.enabled %}
+      <h2>{{ page.event_gallery.title }}</h2>
+      <div class="event-gallery">
+        {% for image in page.event_gallery.images %}
+          <figure>
+            <a href="{{ image.path | relative_url }}">
+              <img
+                src="{{ image.path | relative_url }}"
+                alt="{{ image.alt }}"
+                loading="lazy"
+              >
+            </a>
+            {% if image.caption %}
+              <figcaption>{{ image.caption }}</figcaption>
+            {% endif %}
+          </figure>
+        {% endfor %}
+      </div>
+    {% endif %}
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>

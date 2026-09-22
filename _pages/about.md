@@ -24,6 +24,17 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
+event_gallery:
+  enabled: true
+  title: A few moments from the event
+  images:
+    - path: /assets/img/ati-data-study-group-2026-group.jpg
+      alt: Data Study Group participants at The Alan Turing Institute
+      caption: Data Study Group participants at The Alan Turing Institute, September 2026.
+    - path: /assets/img/ati-data-study-group-2026-abdul.jpeg
+      alt: Abdul Wahid at The Alan Turing Institute
+      caption: At The Alan Turing Institute during the September 2026 Data Study Group.
+
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
@@ -36,6 +47,37 @@ latest_posts:
   border-radius: 50% !important;
   object-fit: cover;
   object-position: center;
+}
+
+.event-gallery {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.event-gallery figure {
+  margin: 0;
+}
+
+.event-gallery img {
+  border-radius: 0.35rem;
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.event-gallery figcaption {
+  color: var(--global-text-color-light);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 767px) {
+  .event-gallery {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
 
