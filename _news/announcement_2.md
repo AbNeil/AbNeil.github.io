@@ -15,14 +15,12 @@ The programme aims to accelerate the adoption of data-driven innovation, artific
 
 As part of the wider European Digital Innovation Hub network, the project contributes to the EU’s digital transformation strategy by helping businesses adopt advanced technologies such as AI, robotics, and data analytics, while also strengthening regional innovation ecosystems and digital capabilities across sectors.
 
-
 #### European Digital Innovation Hub Project Supporting
 
 <ul>
     <li>Digital transformation of SMEs</li>
     <li>Public organisations across Ireland’s Northern and Western regions</li>
 </ul>
-
 
 ---
 

@@ -112,7 +112,6 @@ cv:
         url: https://doi.org/10.1007/s44230-023-00060-0
         summary: "A data-driven framework called TCRSCANet combining temporal convolution, recurrent skip components, and an attention mechanism for RUL prediction."
 
-
     Languages:
       - name: Kashmiri (Native speaker)
         details: Native speaker
@@ -123,7 +122,7 @@ cv:
       - name: Arabic (Reading & Writing)
     Research Interests:
       - name: Statistical modelling, Machine Learning, Deep Learning, Predictive Analytics, Generative Models, Large Language Models (LLMs), Knowledge Graphs and Semantic Ontologies, Neurosymbolic Artificial Intelligence, AI Governance, Ethics and Trustworthy AI, Prediction Markets and Computational Market Design, Semantic Web and Intelligent Information Systems
-        
+
     Certificates:
       - name: Machine Learning
         date: 2018-01-01
@@ -136,6 +135,3 @@ cv:
       - name: Deep Learning
         date: 2018-01-01
         issuer: Stanford University
-
-
-        

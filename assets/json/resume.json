@@ -1,4 +1,3 @@
-
 {
   "basics": {
     "name": "Abdul Wahid",
@@ -173,14 +172,7 @@
       "name": "Engineering",
       "level": "AI",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Statistical modelling",
-        "Machine Learning",
-        "Deep Learning",
-        "Predictive Analytics",
-        "Generative Models",
-        "Large Language Models"
-      ]
+      "keywords": ["Statistical modelling", "Machine Learning", "Deep Learning", "Predictive Analytics", "Generative Models", "Large Language Models"]
     }
   ],
   "languages": [
