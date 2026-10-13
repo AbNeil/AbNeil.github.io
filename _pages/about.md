@@ -6,7 +6,7 @@ subtitle: <a href='#'> South East Technological University</a>.
 
 profile:
   align: right
-  image: profile-sunglasses.jpeg
+  image: profile-ati-2026.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><strong>Email:</strong> <a href="mailto:abdul.wahid@setu.ie">abdul.wahid@setu.ie</a></p>
