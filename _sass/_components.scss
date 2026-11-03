@@ -169,6 +169,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// News
+
+.news {
+  .table {
+    --bs-table-color: var(--global-text-color);
+    color: var(--global-text-color);
+  }
+
+  .table > :not(caption) > * > * {
+    color: var(--global-text-color);
+  }
+}
+
 // Social (bottom)
 
 .social {
