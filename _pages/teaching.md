@@ -2,12 +2,36 @@
 layout: page
 permalink: /Teaching/
 title: Teaching
-description: Current and previous university teaching in artificial intelligence, machine learning, data infrastructure, and autonomous systems.
+description: Current and previous university teaching in artificial intelligence, machine learning, data infrastructure, distributed systems, cybersecurity, and autonomous systems.
 nav: true
 nav_order: 6
 ---
 
 <div class="teaching">
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Development Operations (DevOps)</h3>
+      <p class="card-subtitle mb-2 text-muted">Nanjing University of Information Science and Technology (NUIST), China · Visiting Lecturer · October–December 2026</p>
+      <p class="card-text">Teaching development operations with an emphasis on version control, continuous integration and delivery, infrastructure automation, cloud deployment, system monitoring, and practical DevOps workflows.</p>
+    </div>
+  </div>
+
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Network and System Security</h3>
+      <p class="card-subtitle mb-2 text-muted">Nanjing University of Information Science and Technology (NUIST), China · Visiting Lecturer · October–December 2026</p>
+      <p class="card-text">Teaching core principles of computer networking and system security, including network architecture, secure communication, threat analysis, access control, and defensive security practices.</p>
+    </div>
+  </div>
+
+  <div class="card mt-3">
+    <div class="card-body">
+      <h3 class="card-title">Distributed Systems</h3>
+      <p class="card-subtitle mb-2 text-muted">Nanjing University of Information Science and Technology (NUIST), China · Visiting Lecturer · October–December 2026</p>
+      <p class="card-text">Teaching the design and operation of distributed systems, including service decomposition, inter-service communication, consistency, fault tolerance, observability, and the engineering of scalable distributed applications.</p>
+    </div>
+  </div>
+
   <div class="card mt-3">
     <div class="card-body">
       <h3 class="card-title">Data Handling and Infrastructure for AI</h3>
