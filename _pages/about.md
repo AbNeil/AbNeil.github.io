@@ -49,6 +49,15 @@ latest_posts:
   object-position: center;
 }
 
+.news .table {
+  --bs-table-color: var(--global-text-color);
+  color: var(--global-text-color);
+}
+
+.news .table > :not(caption) > * > * {
+  color: var(--global-text-color);
+}
+
 .event-gallery {
   display: grid;
   grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
