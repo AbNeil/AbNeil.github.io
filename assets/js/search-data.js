@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Current and previous university teaching in artificial intelligence, machine learning, data infrastructure, and autonomous systems.",
+          description: "Current and previous university teaching in artificial intelligence, machine learning, data infrastructure, distributed systems, cybersecurity, and autonomous systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
@@ -91,6 +91,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-spent-a-week-at-the-data-study-group-at-the-alan-turing-institute-in-the-uk-13-18-september-2026-working-with-an-interdisciplinary-team-to-extract-causal-pathways-from-maritime-incident-reports-and-translate-recurring-contributing-factors-into-stronger-evidence-informed-safety-recommendations",
           title: 'I spent a week at the Data Study Group at The Alan Turing...',
+          description: "",
+          section: "News",},{id: "news-from-23-october-to-16-december-2026-i-am-serving-as-a-visiting-lecturer-in-the-department-of-computer-science-at-nanjing-university-of-information-science-and-technology-nuist-china",
+          title: 'From 23 October to 16 December 2026, I am serving as a Visiting...',
           description: "",
           section: "News",},{id: "projects-multilingual-knowledge-alignment-using-llms-and-knowledge-graphs",
           title: 'Multilingual Knowledge Alignment using LLMs and Knowledge Graphs',
