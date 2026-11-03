@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Current and previous university teaching in artificial intelligence, machine learning, data infrastructure, distributed systems, cybersecurity, and autonomous systems.",
+          description: "University courses taught in 2025 and 2026.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
