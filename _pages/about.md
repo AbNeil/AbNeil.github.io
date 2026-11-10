@@ -63,6 +63,11 @@ latest_posts:
 }
 
 .about-social-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  line-height: 1.5;
   margin-top: 1rem;
 }
 
@@ -71,9 +76,20 @@ latest_posts:
   border-bottom: 2px solid rgba(23, 63, 95, 0.25);
   display: inline-flex;
   gap: 0.35rem;
-  margin: 0 0.15rem;
-  padding: 0.1rem 0.2rem;
+  line-height: 1.5;
+  min-height: 1.5rem;
+  padding: 0 0.2rem;
   text-decoration: none;
+  vertical-align: middle;
+}
+
+.about-social-link i {
+  display: inline-block;
+  flex: 0 0 1rem;
+  font-size: 0.95rem;
+  line-height: 1;
+  text-align: center;
+  width: 1rem;
 }
 
 .about-social-link:hover {
@@ -124,4 +140,4 @@ latest_posts:
 
 I am a Lecturer above the bar in Computer Science at South East Technological University (SETU) and a Research Ireland Industry Fellow with Fidelity Investments. My research combines large language models, knowledge graphs, semantic ontologies, counterfactual reasoning, and prediction markets to develop reliable, explainable, and trustworthy AI systems. I received my PhD in Electrical and Electronic Engineering from the University of Galway in 2024. I hold a Master’s degree in Electronics and Information Engineering from Chonbuk National University, South Korea, in 2014 and a Bachelor’s degree in Information Technology Engineering from Baba Ghulam Shah Badshah University, India, in 2012.
 
-<p class="about-social-links">You can find me on <a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i> X</a> and <a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>.</p>
+<p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
