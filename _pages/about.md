@@ -143,3 +143,5 @@ I am a Lecturer Above the Bar in Computer Science at South East Technological Un
 Previously, I worked with the Data Science Institute and Insight Centre for Data Analytics at the University of Galway, Huawei Research Ireland and Zerve AI. I have also collaborated through The Alan Turing Institute’s Data Study Group, applying AI-enabled narrative analytics to maritime incident reports. My wider work covers multilingual knowledge alignment, AI governance, digital infrastructure and predictive analytics.
 
 <p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
+
+<!-- about-bio-deployment: 2026-11-10 -->
