@@ -138,6 +138,8 @@ latest_posts:
 }
 </style>
 
-I am a Lecturer above the bar in Computer Science at South East Technological University (SETU) and a Research Ireland Industry Fellow with Fidelity Investments. My research combines large language models, knowledge graphs, semantic ontologies, counterfactual reasoning, and prediction markets to develop reliable, explainable, and trustworthy AI systems. I received my PhD in Electrical and Electronic Engineering from the University of Galway in 2024. I hold a Master’s degree in Electronics and Information Engineering from Chonbuk National University, South Korea, in 2014 and a Bachelor’s degree in Information Technology Engineering from Baba Ghulam Shah Badshah University, India, in 2012.
+I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU) and a Research Ireland Industry Fellow working with Fidelity Investments. My research focuses on trustworthy and explainable AI, particularly the integration of large language models with knowledge graphs, semantic ontologies, retrieval-augmented generation, counterfactual reasoning and prediction markets.
+
+Previously, I worked with the Data Science Institute and Insight Centre for Data Analytics at the University of Galway, Huawei Research Ireland and Zerve AI. I have also collaborated through The Alan Turing Institute’s Data Study Group, applying AI-enabled narrative analytics to maritime incident reports. My wider work covers multilingual knowledge alignment, AI governance, digital infrastructure and predictive analytics.
 
 <p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
