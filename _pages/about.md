@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> South East Technological University</a>.
+subtitle: <a class='about-affiliation' href='https://www.setu.ie/'>South East Technological University</a>.
 
 profile:
   align: right
@@ -49,6 +49,38 @@ latest_posts:
   object-position: center;
 }
 
+.about-affiliation,
+.about-social-link,
+.profile .more-info a {
+  color: #173f5f !important;
+  font-weight: 700;
+}
+
+.about-affiliation:hover,
+.about-social-link:hover,
+.profile .more-info a:hover {
+  color: #0b2942 !important;
+}
+
+.about-social-links {
+  margin-top: 1rem;
+}
+
+.about-social-link {
+  align-items: center;
+  border-bottom: 2px solid rgba(23, 63, 95, 0.25);
+  display: inline-flex;
+  gap: 0.35rem;
+  margin: 0 0.15rem;
+  padding: 0.1rem 0.2rem;
+  text-decoration: none;
+}
+
+.about-social-link:hover {
+  border-bottom-color: #173f5f;
+  text-decoration: none;
+}
+
 .news .table {
   --bs-table-color: var(--global-text-color);
   color: var(--global-text-color);
@@ -92,4 +124,4 @@ latest_posts:
 
 I am a Lecturer above the bar in Computer Science at South East Technological University (SETU) and a Research Ireland Industry Fellow with Fidelity Investments. My research combines large language models, knowledge graphs, semantic ontologies, counterfactual reasoning, and prediction markets to develop reliable, explainable, and trustworthy AI systems. I received my PhD in Electrical and Electronic Engineering from the University of Galway in 2024. I hold a Master’s degree in Electronics and Information Engineering from Chonbuk National University, South Korea, in 2014 and a Bachelor’s degree in Information Technology Engineering from Baba Ghulam Shah Badshah University, India, in 2012.
 
-You can find me on [X](https://x.com/K_Neeil) and [LinkedIn](https://www.linkedin.com/in/abdul-wahid-a5a91368/)
+<p class="about-social-links">You can find me on <a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i> X</a> and <a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>.</p>
