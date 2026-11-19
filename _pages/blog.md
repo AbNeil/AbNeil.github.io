@@ -124,6 +124,8 @@ It isn't lying. It isn't malfunctioning. It's doing exactly what it was built to
 
 That's not a horror story about evil machines. In some ways it's sadder than that. It's a story about a machine that was never allowed to say it was lost.
 
+Which raises an uncomfortable question about who set those rules in the first place, but that’s a story for another post.
+
 ## What the boy needed all along
 
 So what would have saved the boy?
