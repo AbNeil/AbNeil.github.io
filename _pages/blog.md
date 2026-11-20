@@ -13,6 +13,8 @@ _styles: |
     margin: 1.5rem auto 3rem;
     line-height: 1.75;
   }
+  .blog-article { scroll-margin-top: 90px; }
+  .blog-index { max-width: 760px; margin: 1.5rem auto; padding-bottom: 1rem; border-bottom: 1px solid var(--global-divider-color); }
   .blog-article h1 {
     font-size: 2rem;
     line-height: 1.25;
@@ -36,7 +38,98 @@ _styles: |
   }
 ---
 
-<div class="blog-article" markdown="1">
+<div class="blog-index" markdown="1">
+
+**Latest articles**
+
+- [We Built Them in Our Image, Then Demanded They Be Better](#we-built-them-in-our-image-post) · 20 November 2026
+- [The Boy Who Memorised Everything](#the-boy-who-memorised-everything-post) · 19 November 2026
+
+</div>
+
+<div id="we-built-them-in-our-image-post" class="blog-article" markdown="1">
+
+# We Built Them in Our Image, Then Demanded They Be Better
+
+<p class="blog-byline">20 November 2026 · Abdul Wahid (@Neeil)</p>
+
+## The new intern 💼
+
+Every office has had one. The new intern.
+
+On day one, nobody really knows what they're good at, so they get the jobs nobody else wants. Fix the printer. Sort the spreadsheet from 2019. Take the meeting notes nobody will read. Answer the phone when it's *that* client.
+
+And here's the funny part. We give the intern the most boring, most thankless work in the building, and then we expect them to do it perfectly. One typo in the notes and suddenly it's a story at lunch. “Did you see what the intern did?”
+
+Meanwhile, the senior manager has sent the wrong attachment to the whole company three times this month. Nobody tells that story at lunch. That's just Dave having a busy week.
+
+I've been thinking about the intern a lot lately, because I think we've hired a new one. It's not a person this time. It's the AI.
+
+In my last post, [*The Boy Who Memorised Everything*](#the-boy-who-memorised-everything-post), I wrote about why early language models made things up. This time I want to turn the camera around and look at the people in the room. Us.
+
+## One mistake and you're out ⚖️
+
+This isn't just a feeling. Researchers have actually measured it.
+
+In 2015, three researchers at the Wharton School published a study with a title that says it all: [*Algorithm Aversion: People Erroneously Avoid Algorithms after Seeing Them Err*](https://faculty.wharton.upenn.edu/wp-content/uploads/2016/11/20-Dietvorst-Simmons-Massey-2015.pdf). They let people watch either a human or a computer make predictions, then asked them which one they'd rather bet on.
+
+The result? People lost faith in the computer much faster than in the human after seeing both make the *same* mistake. Even people who had just watched the computer beat the human still walked away from it.
+
+Think about that for a second. The machine was better. Everyone could see it was better. But it slipped once, and that was it. The human slipped too, and got a pat on the back and a “we all have off days.”
+
+That's the intern and Dave all over again.
+
+We say “to err is human” like it's a gentle excuse. What we don't say out loud is the second half: *and only human*. Everyone else has to be perfect.
+
+## An old habit with a new face
+
+Here's the part I've been chewing on, and I want to be careful with it.
+
+Humans have a long habit of deciding that someone or something is “less than” us. Once we've decided that, a pattern follows. We hand them the work we don't want to do. We watch them closely. And we judge them harder than we judge ourselves.
+
+History has far too many examples of this done to people, and the harm was real and terrible. I am not saying a chatbot is in the same position as a human being who was treated that way. It isn't. Software doesn't suffer. People did.
+
+But I do think the *instinct* is the same one, and it's worth noticing when it shows up again. Put something below you. Give it the jobs you'd never take. Then hold it to a standard you'd never meet.
+
+If you've ever been the intern, you know exactly how that feels. And if that instinct can show up so easily with a machine, it's a good reminder to check where else it's quietly showing up in our own lives, with real people.
+
+## Scared of it and expecting miracles
+
+Now here's what makes me laugh, a little nervously.
+
+On Monday, we're scared that AI is going to take all our jobs. On Tuesday, it gets a date wrong and we say it's useless. On Wednesday, we're scared again.
+
+Pick one, people.
+
+It's like being terrified that the new intern will take your job, while also complaining they can't work the coffee machine. Both can't be the whole story.
+
+I think the fear and the demand for perfection come from the same place. If the machine has to be perfect to be useful, then every mistake it makes is proof that we're still needed. Every wrong answer is a small sigh of relief. “See? It's not that clever.”
+
+I understand that feeling. I'm a computer scientist and I still feel it sometimes. But it's a strange way to measure anything. We're imperfect too, gloriously so. We forget names, we misread emails, we confidently give directions to places we've never been. (That last one might just be me.)
+
+So we're judging the machine by a test we would fail ourselves.
+
+## Room to be wrong 🤝
+
+So what's the answer? It isn't to stop expecting good work from AI. The intern should still learn to fix the printer.
+
+The answer is to build the same kind of safety net we already build for people. We don't trust a single person to get everything right, so we have second opinions, checklists, reviews and a colleague who says “hang on, are you sure?” Good teams work because they *expect* mistakes and plan for them, not because nobody ever makes one.
+
+We can treat AI the same way. Check its work. Give it ways to say “I'm not sure.” Use it for what it's good at, and keep a human nearby for what it isn't. That's not lowering the bar. That's how every good team has always worked.
+
+In my last post, I said the boy at the back of the class needed permission to say “I don't know.” I think the rest of us need permission too. Permission to share the work with something imperfect, without needing it to fail to feel safe, and without needing it to be perfect to feel impressed.
+
+We built these machines in our own image, mistakes and all. Maybe the fairest thing we can do is judge them the way we'd like to be judged.
+
+Gently. Honestly. And with a second pair of eyes.
+
+Now if you'll excuse me, I need to go apologise to the printer. 🖨️
+
+</div>
+
+<hr>
+
+<div id="the-boy-who-memorised-everything-post" class="blog-article" markdown="1">
 
 # The Boy Who Memorised Everything
 
@@ -124,7 +217,7 @@ It isn't lying. It isn't malfunctioning. It's doing exactly what it was built to
 
 That's not a horror story about evil machines. In some ways it's sadder than that. It's a story about a machine that was never allowed to say it was lost.
 
-Which raises an uncomfortable question about who set those rules in the first place, but that’s a story for another post.
+Which raises an uncomfortable question about who set those rules in the first place, but [that’s a story for another post](#we-built-them-in-our-image-post).
 
 ## What the boy needed all along
 
