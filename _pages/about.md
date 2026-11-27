@@ -173,13 +173,18 @@ latest_posts:
 .career-history .career-node:nth-child(4) { --career-accent: #a34d55; --career-tint: rgba(163,77,85,.10); }
 .career-history .career-node:nth-child(5) { --career-accent: #725f8a; --career-tint: rgba(114,95,138,.10); }
 
+
+.news .table, .news .table > :not(caption) > * > * { color: var(--global-text-color); }
+.news .table td { opacity: .88; }
+.news .table th { font-size: .85rem; font-weight: 600; opacity: .85; }
+.news-heading { font-weight: 700; color: var(--global-text-color); }
 </style>
 
-I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU), Ireland, and currently a Visiting Lecturer at Nanjing University of Information Science and Technology (NUIST), China. My work spans artificial intelligence, applied research and higher education.
+I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU), Ireland, and a Visiting Lecturer at Nanjing University of Information Science and Technology (NUIST), China.
 
-My research explores large language models, knowledge graphs, semantic ontologies, counterfactual reasoning and prediction markets. I am particularly interested in how AI systems reason, where they fail, and how their factual accuracy, reliability and trustworthiness can be improved.
+My research focuses on trustworthy AI, exploring large language models, knowledge graphs, semantic ontologies, counterfactual reasoning and prediction markets, with an emphasis on factual accuracy and reliability.
 
-My previous research experience includes the Data Science Institute and Insight Centre for Data Analytics at the University of Galway, Fidelity Investments (as a Research Ireland Industry Fellow), Huawei Research Ireland, Zerve AI and Jeonbuk National University, South Korea. I have also collaborated with The Alan Turing Institute through its Data Study Group on AI-enabled analysis of maritime incident reports. Having worked across academia and industry in Europe and Asia, I am interested in interdisciplinary research and international collaboration that connects advances in AI with practical applications.
+Previously, I worked with the University of Galway's Data Science Institute, Fidelity Investments, Huawei Research Ireland, Zerve AI and Jeonbuk National University. I have also collaborated with The Alan Turing Institute on AI-enabled maritime safety research.
 
 <p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
 
