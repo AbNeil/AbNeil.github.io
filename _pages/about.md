@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a class='about-affiliation' href='https://www.setu.ie/'>South East Technological University</a>.
+subtitle: <a class='about-affiliation setu-affiliation' href='https://www.setu.ie/'><img class='setu-brand-logo' src='/assets/img/setu-logo-white.png' alt='SETU logo'> <span>South East Technological University</span></a>
 
 profile:
   align: right
@@ -178,6 +178,10 @@ latest_posts:
 .news .table td { opacity: .88; }
 .news .table th { font-size: .85rem; font-weight: 600; opacity: .85; }
 .news-heading { font-weight: 700; color: var(--global-text-color); }
+
+.setu-affiliation { display:inline-flex; align-items:center; flex-wrap:wrap; gap:.65rem; }
+.setu-brand-logo { width:108px; height:auto; padding:6px 8px; border-radius:5px; background:#173f5f; box-sizing:content-box; }
+@media(max-width:575px) { .setu-brand-logo { width:92px; } }
 </style>
 
 I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU), Ireland, and a Visiting Lecturer at Nanjing University of Information Science and Technology (NUIST), China.
