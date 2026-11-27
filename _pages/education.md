@@ -28,6 +28,13 @@ _styles: |
 .edu-milestone:nth-child(even) .edu-text { padding-top:.2rem; }
 @media(max-width:767px) { .edu-journey { margin:1.4rem auto 2rem; } .edu-timeline { display:flex; flex-direction:column; gap:1.2rem; border-left:3px solid #376c79; margin:0 0 0 .5rem; padding-left:1rem; } .edu-ribbon { order:-1; min-height:40px; margin-left:-1rem; } .edu-milestone { flex-direction:row; text-align:left; gap:.85rem; align-items:center!important; } .edu-milestone .edu-logo,.edu-milestone:nth-child(even) .edu-logo { order:-1; width:82px; height:90px; flex:0 0 82px; padding:6px; border:2px solid var(--accent); border-radius:9px; margin:0; } .edu-text { padding:0; max-width:none; } .edu-year { font-size:1.15rem; } .edu-degree { font-size:.92rem; } }
 @media(prefers-reduced-motion:reduce) { .edu-logo { transition:none; } }
+
+.edu-logo { overflow:hidden; box-sizing:border-box; padding:18px; }
+.edu-logo img { display:block; width:100%; height:100%; max-width:100%; max-height:100%; object-fit:contain; }
+.edu-milestone:nth-child(2) .edu-logo img { width:80%; height:80%; }
+.edu-milestone:nth-child(3) .edu-logo img { width:82%; height:82%; }
+.edu-place { color:var(--global-text-color); font-weight:700; }
+@media(max-width:767px) { .edu-logo { padding:6px; } }
 </style>
 
 <div class="edu-journey" aria-label="Education timeline">
