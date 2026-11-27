@@ -25,7 +25,7 @@ announcements:
 
 event_gallery:
   enabled: true
-  title: A few moments from the event
+  title: Moments Caught in Time
   images:
     - path: /assets/img/ati-data-study-group-2026-group.jpg
       alt: Data Study Group participants at The Alan Turing Institute
