@@ -32,7 +32,8 @@ _styles: |
 .edu-logo { overflow:hidden; box-sizing:border-box; padding:18px; }
 .edu-logo img { display:block; width:100%; height:100%; max-width:100%; max-height:100%; object-fit:contain; }
 .edu-milestone:nth-child(2) .edu-logo img { width:80%; height:80%; }
-.edu-milestone:nth-child(3) .edu-logo img { width:82%; height:82%; }
+.edu-milestone:nth-child(3) .edu-logo { padding:8px; }
+.edu-milestone:nth-child(3) .edu-logo img { width:100%; height:100%; object-fit:contain; }
 .edu-place { color:var(--global-text-color); font-weight:700; }
 @media(max-width:767px) { .edu-logo { padding:6px; } }
 </style>
@@ -49,7 +50,7 @@ _styles: |
 </li>
 <li class="edu-milestone" style="--col:3;--accent:#a90055">
 <div class="edu-text"><div class="edu-year">2024</div><h2 class="edu-degree"><em>PhD in Electrical and Electronic Engineering</em></h2><p class="edu-university">University of Galway</p><span class="edu-place">Ireland</span></div>
-<a class="edu-logo" href="https://www.universityofgalway.ie/" target="_blank" rel="noopener" aria-label="Visit University of Galway"><img src="/assets/img/education-galway.png" alt="University of Galway logo"></a>
+<a class="edu-logo" href="https://www.universityofgalway.ie/" target="_blank" rel="noopener" aria-label="Visit University of Galway"><img src="/assets/img/education-galway-round.png" alt="University of Galway logo"></a>
 </li>
 <li class="edu-ribbon" aria-hidden="true">Education Timeline &nbsp; →</li>
 </ol>
