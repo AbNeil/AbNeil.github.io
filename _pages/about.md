@@ -135,6 +135,22 @@ latest_posts:
     grid-template-columns: 1fr;
   }
 }
+
+.career-timeline { clear: both; padding-top: 1.5rem; margin-bottom: 2rem; }
+.career-track { list-style: none; padding: 0; margin: 1.25rem 0 0; position: relative; }
+.career-track::before { content: ""; position: absolute; left: 32px; top: 16px; bottom: 24px; width: 2px; background: #a9b9c6; }
+.career-item { position: relative; display: flex; align-items: flex-start; gap: 1rem; padding: 0 0 1rem; }
+.career-mark { z-index: 1; flex: 0 0 66px; height: 48px; display: flex; align-items: center; justify-content: center; border: 1px solid #b7c5d1; border-radius: 6px; background: #e8edf1; color: #173f5f; font-size: .68rem; font-weight: 800; letter-spacing: .04em; }
+.career-content { flex: 1; min-width: 0; padding: .1rem 0 .8rem; border-bottom: 1px solid var(--global-divider-color, #cbd5e1); }
+.career-date { color: var(--global-text-color-light); font-size: .82rem; font-weight: 500; }
+.career-role { font-size: 1rem; font-weight: 700; color: var(--global-theme-color); margin: .15rem 0; }
+.career-org { font-size: .9rem; color: var(--global-text-color); }
+.career-status { font-size: .68rem; font-weight: 700; padding: .15rem .45rem; margin-left: .4rem; border-radius: 4px; background: #dce8e4; color: #245646; }
+.career-details { font-size: .85rem; margin-top: .35rem; }
+.career-details summary { cursor: pointer; color: var(--global-text-color-light); }
+.career-details p { margin: .35rem 0 0; color: var(--global-text-color); }
+@media (max-width: 575px) { .career-item { gap: .75rem; } .career-mark { flex-basis: 54px; font-size: .6rem; } .career-track::before { left: 26px; } }
+
 </style>
 
 I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU), Ireland, and currently a Visiting Lecturer at Nanjing University of Information Science and Technology (NUIST), China. My work spans artificial intelligence, applied research and higher education.
@@ -145,4 +161,16 @@ My previous research experience includes the Data Science Institute and Insight 
 
 <p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
 
-<!-- about-bio-deployment: 2026-11-10 -->
+<section class="career-timeline" aria-labelledby="career-timeline-title">
+<h2 id="career-timeline-title">Career &amp; research timeline</h2>
+<ol class="career-track">
+<li class="career-item"><span class="career-mark" aria-hidden="true">NUIST</span><div class="career-content"><div class="career-date">Oct – Dec 2026 <span class="career-status">Current</span></div><div class="career-role">Visiting Lecturer</div><div class="career-org"><a href="https://en.nuist.edu.cn/mainm.htm">Nanjing University of Information Science and Technology · China</a></div><details class="career-details"><summary>Research &amp; activities</summary><p>Teaching Developer Operations, Network and System Security, and Distributed Systems.</p></details></div></li>
+<li class="career-item"><span class="career-mark" aria-hidden="true">SETU</span><div class="career-content"><div class="career-date">Sept 2026 – Present <span class="career-status">Current</span></div><div class="career-role">Lecturer Above the Bar</div><div class="career-org"><a href="https://www.setu.ie/">South East Technological University · Ireland</a></div><details class="career-details"><summary>Research &amp; activities</summary><p>Computer Science teaching and applied AI research.</p></details></div></li>
+<li class="career-item"><span class="career-mark" aria-hidden="true">ATI</span><div class="career-content"><div class="career-date">Sept 2026</div><div class="career-role">Data Study Group</div><div class="career-org">The Alan Turing Institute · UK</div><details class="career-details"><summary>Research &amp; activities</summary><p>AI-enabled analysis of maritime incident reports and recurring causal factors.</p></details></div></li>
+<li class="career-item"><span class="career-mark" aria-hidden="true">FCAT</span><div class="career-content"><div class="career-date">2026</div><div class="career-role">Research Ireland Industry Fellow</div><div class="career-org">Fidelity Investments · Ireland</div><details class="career-details"><summary>Research &amp; activities</summary><p>Factual precision in language models using counterfactual reasoning and knowledge graphs.</p></details></div></li>
+<li class="career-item"><span class="career-mark" aria-hidden="true">DSI</span><div class="career-content"><div class="career-date">Prior to SETU</div><div class="career-role">Postdoctoral Researcher</div><div class="career-org"><a href="https://www.universityofgalway.ie/">Insight Centre &amp; Data Science Institute, University of Galway · Ireland</a></div><details class="career-details"><summary>Research &amp; activities</summary><p>AI, knowledge graphs and e-governance research.</p></details></div></li>
+<li class="career-item"><span class="career-mark" aria-hidden="true">ZERVE</span><div class="career-content"><div class="career-date">2022 – 2023</div><div class="career-role">Data Scientist</div><div class="career-org">Zerve AI · Ireland</div><details class="career-details"><summary>Research &amp; activities</summary><p>Applied machine learning and predictive analytics.</p></details></div></li>
+<li class="career-item"><span class="career-mark" aria-hidden="true">HUAWEI</span><div class="career-content"><div class="career-date">Earlier research</div><div class="career-role">Research Intern</div><div class="career-org">Huawei Research Ireland</div><details class="career-details"><summary>Research &amp; activities</summary><p>Digital twin research and cloud network simulation.</p></details></div></li>
+<li class="career-item"><span class="career-mark" aria-hidden="true">JBNU</span><div class="career-content"><div class="career-date">Earlier research</div><div class="career-role">Associate Researcher</div><div class="career-org"><a href="https://www.jbnu.ac.kr/en/">Jeonbuk National University · South Korea</a></div><details class="career-details"><summary>Research &amp; activities</summary><p>Computer vision research.</p></details></div></li>
+</ol>
+</section>
