@@ -160,6 +160,19 @@ latest_posts:
 .career-details p { margin: .35rem 0 0; color: var(--global-text-color); }
 @media (max-width: 767px) { .career-branches, .career-history { grid-template-columns: 1fr; } .career-branches::before, .career-branches::after, .career-branch::before { display: none; } .career-primary { max-width: none; } .career-branches { padding-top: .5rem; } }
 
+
+#career-timeline-title { font-weight: 750; }
+.career-node { --career-accent: #49677e; --career-tint: rgba(73,103,126,.09); border-left: 4px solid var(--career-accent); background: var(--global-card-bg-color, #f5f6f7); background-image: linear-gradient(var(--career-tint), var(--career-tint)); }
+.career-node .career-mark { background: var(--career-accent); border-color: var(--career-accent); color: #fff; }
+.career-primary .career-node { --career-accent: #234e75; --career-tint: rgba(35,78,117,.12); border: 2px solid var(--career-accent); border-left-width: 5px; }
+.career-branch:nth-child(1) .career-node { --career-accent: #337b76; --career-tint: rgba(51,123,118,.10); }
+.career-branch:nth-child(2) .career-node { --career-accent: #735b9b; --career-tint: rgba(115,91,155,.10); }
+.career-history .career-node:nth-child(1) { --career-accent: #557b4e; --career-tint: rgba(85,123,78,.10); }
+.career-history .career-node:nth-child(2) { --career-accent: #967033; --career-tint: rgba(150,112,51,.10); }
+.career-history .career-node:nth-child(3) { --career-accent: #3577a3; --career-tint: rgba(53,119,163,.10); }
+.career-history .career-node:nth-child(4) { --career-accent: #a34d55; --career-tint: rgba(163,77,85,.10); }
+.career-history .career-node:nth-child(5) { --career-accent: #725f8a; --career-tint: rgba(114,95,138,.10); }
+
 </style>
 
 I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU), Ireland, and currently a Visiting Lecturer at Nanjing University of Information Science and Technology (NUIST), China. My work spans artificial intelligence, applied research and higher education.
@@ -171,7 +184,7 @@ My previous research experience includes the Data Science Institute and Insight 
 <p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
 
 <section class="career-timeline" aria-labelledby="career-timeline-title">
-<h2 id="career-timeline-title">Career &amp; research timeline</h2>
+<h2 id="career-timeline-title">Career &amp; Research Timeline</h2>
 <div class="career-map">
 <div class="career-primary"><article class="career-node"><span class="career-mark" aria-hidden="true">SETU</span><div class="career-content"><div class="career-date">Sept 2026 – Present <span class="career-status">Current</span></div><div class="career-role">Lecturer Above the Bar</div><div class="career-org"><a href="https://www.setu.ie/">South East Technological University · Ireland</a></div><details class="career-details"><summary>Research &amp; activities</summary><p>Computer Science teaching and applied AI research.</p></details></div></article></div>
 <div class="career-branches">
