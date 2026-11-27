@@ -10,10 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><strong>Email:</strong> <a href="mailto:abdul.wahid@setu.ie">abdul.wahid@setu.ie</a></p>
-    <p><strong>Address:</strong><br>
-    Room No. 3, Portacabin,<br>
-    West Campus, Carriganore,<br>
-    County Waterford, X91 XD96, Ireland</p>
+    <p><strong>Address:</strong> <em>Room No. 3, Portacabin, West Campus, Carriganore, County Waterford, X91 XD96, Ireland</em></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -182,6 +179,20 @@ latest_posts:
 .setu-affiliation { display:inline-flex; align-items:center; flex-wrap:wrap; gap:.65rem; }
 .setu-brand-logo { width:108px; height:auto; padding:6px 8px; border-radius:5px; background:#173f5f; box-sizing:content-box; }
 @media(max-width:575px) { .setu-brand-logo { width:92px; } }
+
+.about-research,.about-glance { clear:both; margin:1.3rem 0 1.5rem; }
+.about-research h2,.about-glance h2 { font-weight:750; font-size:1.35rem; margin:0 0 .8rem; }
+.research-tags { display:flex; flex-wrap:wrap; gap:.5rem; }
+.research-tag { display:inline-flex; align-items:center; border:1px solid color-mix(in srgb,var(--interest) 50%,transparent); border-radius:20px; padding:.36rem .75rem; background:color-mix(in srgb,var(--interest) 13%,transparent); color:var(--global-text-color); font-weight:650; font-size:.82rem; transition:transform .18s,background .18s; }
+.research-tag:hover { transform:translateY(-2px); background:color-mix(in srgb,var(--interest) 25%,transparent); color:var(--global-text-color); text-decoration:none; }
+.glance-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:.65rem; }
+.glance-card { min-width:0; display:flex; flex-direction:column; justify-content:center; gap:.4rem; padding:.85rem .65rem; text-align:center; border:1px solid var(--global-divider-color,#cbd5e1); border-top:3px solid var(--glance); border-radius:8px; background:color-mix(in srgb,var(--glance) 10%,var(--global-bg-color)); color:var(--global-text-color); transition:transform .18s; }
+.glance-card strong { font-size:1.7rem; line-height:1.2; font-weight:750; color:var(--global-text-color); }
+.glance-card span { font-size:.76rem; font-weight:600; line-height:1.35; }
+.glance-card:hover { transform:translateY(-3px); text-decoration:none; color:var(--global-text-color); }
+.profile .more-info em { font-style:italic; }
+@media(max-width:575px) { .glance-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(prefers-reduced-motion:reduce) { .research-tag,.glance-card { transition:none; } }
 </style>
 
 I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU), Ireland, and a Visiting Lecturer at Nanjing University of Information Science and Technology (NUIST), China.
@@ -191,6 +202,21 @@ My research focuses on trustworthy AI, exploring large language models, knowledg
 Previously, I worked with the University of Galway's Data Science Institute, Fidelity Investments, Huawei Research Ireland, Zerve AI and Jeonbuk National University. I have also collaborated with The Alan Turing Institute on AI-enabled maritime safety research.
 
 <p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
+
+<section class="about-research" aria-labelledby="research-interests-title">
+<h2 id="research-interests-title">Research Interests</h2>
+<div class="research-tags"><a href="/research-map/" style="--interest:#315d8c" class="research-tag">Large Language Models</a><a href="/research-map/" style="--interest:#337b76" class="research-tag">Knowledge Graphs</a><a href="/research-map/" style="--interest:#735b9b" class="research-tag">Semantic Ontologies</a><a href="/research-map/" style="--interest:#a34d55" class="research-tag">Trustworthy AI</a><a href="/research-map/" style="--interest:#967033" class="research-tag">Counterfactual Reasoning</a><a href="/research-map/" style="--interest:#557b4e" class="research-tag">Prediction Markets</a><a href="/research-map/" style="--interest:#725f8a" class="research-tag">Generalisable Machine Ethics</a></div>
+</section>
+
+<section class="about-glance" aria-labelledby="research-glance-title">
+<h2 id="research-glance-title">Research at a Glance</h2>
+<div class="glance-grid">
+<a class="glance-card" style="--glance:#315d8c" href="/research-map/"><strong>6</strong><span>Research dimensions</span></a>
+<a class="glance-card" style="--glance:#337b76" href="/Projects/"><strong>5</strong><span>Selected projects</span></a>
+<a class="glance-card" style="--glance:#735b9b" href="#career-timeline-title"><strong>5</strong><span>Countries in my academic journey</span></a>
+<a class="glance-card" style="--glance:#967033" href="/publications/"><strong><i class="fa-solid fa-book-open" aria-hidden="true"></i></strong><span>Publications</span></a>
+</div>
+</section>
 
 <section class="career-timeline" aria-labelledby="career-timeline-title">
 <h2 id="career-timeline-title">Career &amp; Research Timeline</h2>
