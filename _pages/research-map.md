@@ -70,7 +70,7 @@ description: Explore shared research interests and potential collaboration.
 <label class="rm-option" style="--area:#735b9b"><input type="checkbox" data-weight="20" data-area="Trustworthy AI and Factual Reasoning"><span>Trustworthy AI &amp; Factual Reasoning</span><small>20%</small></label>
 <label class="rm-option" style="--area:#a34d55"><input type="checkbox" data-weight="15" data-area="Counterfactual and Causal Reasoning"><span>Counterfactual &amp; Causal Reasoning</span><small>15%</small></label>
 <label class="rm-option" style="--area:#967033"><input type="checkbox" data-weight="10" data-area="Prediction Markets and Decision Intelligence"><span>Prediction Markets &amp; Decision Intelligence</span><small>10%</small></label>
-<label class="rm-option" style="--area:#557b4e"><input type="checkbox" data-weight="10" data-area="Semantic Reasoning and Graph-RAG"><span>Semantic Reasoning &amp; Graph-RAG</span><small>10%</small></label>
+<label class="rm-option" style="--area:#557b4e"><input type="checkbox" data-weight="10" data-area="Generalisable Machine Ethics and Semantic Reasoning"><span>Generalisable Machine Ethics &amp; Semantic Reasoning</span><small>10%</small></label>
 <div class="rm-actions"><button type="button" class="rm-reset" id="rm-clear">Reset selections</button><span id="rm-count" class="rm-note" aria-live="polite">0 of 6 selected</span></div>
 </section>
 <section class="rm-panel" aria-labelledby="rm-result-title">
@@ -79,7 +79,7 @@ description: Explore shared research interests and potential collaboration.
 <div class="rm-progress" aria-hidden="true"><div id="rm-fill"></div></div><div class="rm-ranges"><span style="--range:#a34d55">0–39%<br>Limited</span><span style="--range:#967033">40–59%<br>Potential</span><span style="--range:#356b91">60–79%<br>Strong</span><span style="--range:#337b76">80–100%<br>Excellent</span></div>
 <svg class="rm-chart" id="rm-radar" viewBox="-25 0 410 310" role="img" aria-label="Radar chart of selected interests across six research areas">
 <g id="rm-gridlines"></g><polygon class="rm-reference" id="rm-reference"></polygon><polygon class="rm-match" id="rm-match"></polygon><g id="rm-markers"></g>
-<text x="180" y="17" text-anchor="middle">LLMs</text><text x="307" y="84" text-anchor="middle">Knowledge graphs</text><text x="307" y="230" text-anchor="middle">Trustworthy AI</text><text x="180" y="300" text-anchor="middle">Causal reasoning</text><text x="52" y="230" text-anchor="middle">Prediction markets</text><text x="52" y="84" text-anchor="middle">Graph-RAG</text>
+<text x="180" y="17" text-anchor="middle">LLMs</text><text x="307" y="84" text-anchor="middle">Knowledge graphs</text><text x="307" y="230" text-anchor="middle">Trustworthy AI</text><text x="180" y="300" text-anchor="middle">Causal reasoning</text><text x="52" y="230" text-anchor="middle">Prediction markets</text><text x="52" y="84" text-anchor="middle">Machine ethics</text>
 </svg>
 <div class="rm-key"><span>– – Research profile</span><span><b>●</b> Shared interests</span></div>
 <p class="rm-note" style="text-align:center;margin:.55rem 0">Click or use the keyboard on a coloured radar point to toggle an interest.</p><h2 style="margin-top:1.4rem">Shared research areas</h2>
