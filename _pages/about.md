@@ -137,9 +137,11 @@ latest_posts:
 }
 </style>
 
-I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU) and a Research Ireland Industry Fellow working with Fidelity Investments. My research focuses on trustworthy and explainable AI, particularly the integration of large language models with knowledge graphs, semantic ontologies, retrieval-augmented generation, counterfactual reasoning and prediction markets.
+I am a Lecturer Above the Bar in Computer Science at South East Technological University (SETU), Ireland, and currently a Visiting Lecturer at Nanjing University of Information Science and Technology (NUIST), China. My work spans artificial intelligence, applied research and higher education.
 
-Previously, I worked with the Data Science Institute and Insight Centre for Data Analytics at the University of Galway, Huawei Research Ireland and Zerve AI. I have also collaborated through The Alan Turing Institute’s Data Study Group, applying AI-enabled narrative analytics to maritime incident reports. My wider work covers multilingual knowledge alignment, AI governance, digital infrastructure and predictive analytics.
+My research explores large language models, knowledge graphs, semantic ontologies, counterfactual reasoning and prediction markets. I am particularly interested in how AI systems reason, where they fail, and how their factual accuracy, reliability and trustworthiness can be improved.
+
+My previous research experience includes the Data Science Institute and Insight Centre for Data Analytics at the University of Galway, Fidelity Investments (as a Research Ireland Industry Fellow), Huawei Research Ireland, Zerve AI and Jeonbuk National University, South Korea. I have also collaborated with The Alan Turing Institute through its Data Study Group on AI-enabled analysis of maritime incident reports. Having worked across academia and industry in Europe and Asia, I am interested in interdisciplinary research and international collaboration that connects advances in AI with practical applications.
 
 <p class="about-social-links"><span>You can find me on</span><a class="about-social-link" href="https://x.com/K_Neeil"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i><span>X</span></a><span>and</span><a class="about-social-link" href="https://www.linkedin.com/in/abdul-wahid-a5a91368/"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a><span>.</span></p>
 
