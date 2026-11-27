@@ -208,16 +208,6 @@ Previously, I worked with the University of Galway's Data Science Institute, Fid
 <div class="research-tags"><a href="/research-map/" style="--interest:#315d8c" class="research-tag">Large Language Models</a><a href="/research-map/" style="--interest:#337b76" class="research-tag">Knowledge Graphs</a><a href="/research-map/" style="--interest:#735b9b" class="research-tag">Semantic Ontologies</a><a href="/research-map/" style="--interest:#a34d55" class="research-tag">Trustworthy AI</a><a href="/research-map/" style="--interest:#967033" class="research-tag">Counterfactual Reasoning</a><a href="/research-map/" style="--interest:#557b4e" class="research-tag">Prediction Markets</a><a href="/research-map/" style="--interest:#725f8a" class="research-tag">Generalisable Machine Ethics</a></div>
 </section>
 
-<section class="about-glance" aria-labelledby="research-glance-title">
-<h2 id="research-glance-title">Research at a Glance</h2>
-<div class="glance-grid">
-<a class="glance-card" style="--glance:#315d8c" href="/research-map/"><strong>6</strong><span>Research dimensions</span></a>
-<a class="glance-card" style="--glance:#337b76" href="/Projects/"><strong>5</strong><span>Selected projects</span></a>
-<a class="glance-card" style="--glance:#735b9b" href="#career-timeline-title"><strong>5</strong><span>Countries in my academic journey</span></a>
-<a class="glance-card" style="--glance:#967033" href="/publications/"><strong><i class="fa-solid fa-book-open" aria-hidden="true"></i></strong><span>Publications</span></a>
-</div>
-</section>
-
 <section class="career-timeline" aria-labelledby="career-timeline-title">
 <h2 id="career-timeline-title">Career &amp; Research Timeline</h2>
 <div class="career-map">
